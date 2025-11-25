@@ -1,62 +1,79 @@
+/* GLOBAL */
 body {
     margin: 0;
     font-family: "Trebuchet MS", sans-serif;
     background: #fff8e6;
 }
 
+/* HEADER */
 header {
     background: linear-gradient(to right, #ffcc00, #ff5733);
-    padding: 25px;
+    padding: 25px 15px;
     text-align: center;
     color: white;
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
-    position: relative;
 }
 
 header h1 {
-    margin: 10px 0 5px 0;
-    font-size: 2.2em;
-    letter-spacing: 1px;
+    margin: 0;
+    font-size: 2em;
 }
 
 header p {
-    margin: 0;
+    margin: 5px 0 0 0;
     font-size: 1.1em;
 }
 
-/* Drapeau Guadeloupe */
-header .flag {
-    width: 60px;
-    height: auto;
-    position: absolute;
-    left: 20px;
-    top: 50%;
-    transform: translateY(-50%);
-    border-radius: 5px;
-    border: 1px solid #fff;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
-}
-
+/* SEARCH AREA */
 .search-container {
     text-align: center;
     padding: 20px;
-    position: relative; /* essentiel pour dropdown */
+    position: relative;
 }
 
 #searchInput {
-    width: 80%;
-    max-width: 400px;
+    width: 90%;
+    max-width: 420px;
     padding: 12px;
     font-size: 1.1em;
     border: 2px solid #ff9800;
     border-radius: 8px;
-    outline: none;
 }
 
 #searchInput:focus {
     border-color: #ff5733;
 }
 
+/* SUGGESTIONS DROPDOWN */
+.suggestions {
+    border: 1px solid #e0c068;
+    border-radius: 5px;
+    background-color: #fff8e1;
+    max-height: 300px;
+    overflow-y: auto;
+    position: absolute;
+    width: 90%;
+    left: 50%;
+    transform: translateX(-50%);
+    z-index: 100;
+}
+
+.suggestion-item {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.suggestion-item:hover {
+    background-color: #ffeeba;
+}
+
+/* HIGHLIGHT */
+.highlight {
+    background-color: #ffe066;
+    border-radius: 2px;
+}
+
+/* RESULT CARD */
 #results {
     padding: 20px;
     max-width: 800px;
@@ -67,52 +84,43 @@ header .flag {
     background: white;
     border-left: 8px solid #ff5733;
     padding: 15px;
-    margin-bottom: 15px;
+    margin-bottom: 20px;
     border-radius: 8px;
     box-shadow: 0 4px 6px rgba(0,0,0,0.1);
-    cursor: pointer;
-    transition: background-color 0.2s;
 }
 
 .card:hover {
     background-color: #fff2b8;
 }
 
-.card h2 {
-    margin: 0;
-    color: #ff5733;
-}
-
+/* FOOTER */
 footer {
     text-align: center;
-    padding: 10px;
+    padding: 15px;
     background: #ffcc00;
     color: #333;
     margin-top: 30px;
 }
 
-.suggestions {
-    border: 1px solid #e0c068;
-    border-radius: 5px;
-    background-color: #fff8e1;
-    max-height: 300px;
-    overflow-y: auto;
-    position: absolute;
-    width: calc(100% - 20px);
-    z-index: 10;
-}
+/* -------------------------- */
+/*        VERSION MOBILE      */
+/* -------------------------- */
+@media (max-width: 600px) {
+    header h1 {
+        font-size: 1.6em;
+    }
 
-.suggestion-item {
-    padding: 8px 10px;
-    cursor: pointer;
-}
+    #searchInput {
+        font-size: 1em;
+        padding: 10px;
+    }
 
-.suggestion-item:hover {
-    background-color: #fff2b8;
-}
+    .suggestions {
+        max-height: 250px;
+        width: 92%;
+    }
 
-.highlight {
-    background-color: #ffe066;
-    border-radius: 2px;
+    .card {
+        padding: 12px;
+    }
 }
-
