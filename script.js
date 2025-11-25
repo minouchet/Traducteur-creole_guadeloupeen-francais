@@ -1,11 +1,67 @@
 let data = [];
 
-// Normalisation pour ignorer accents et casse
-function normalizeString(str) {
-    return str
-        .normalize("NFD")
-        .replace(/[\u0300-\u036f]/g, "")
-        .toLowerCase();
+function normalize(str) {
+    return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+}
+
+function rankSuggestion(item, query) {
+    const word = item.Mot;
+    const normWord = normalize(word);
+    const normQuery = normalize(query);
+
+    // Scores
+    let score = 0;
+
+    // 1️⃣ Exact match accentué
+    if (word === query) score += 100;
+
+    // 2️⃣ Commence par la recherche accentuée
+    if (word.startsWith(query)) score += 80;
+
+    // 3️⃣ Commence par la version non accentuée
+    if (normWord.startsWith(normQuery)) score += 60;
+
+    // 4️⃣ Contient la séquence
+    if (normWord.includes(normQuery)) score += 40;
+
+    // 5️⃣ Recherche dans la traduction (peu de poids)
+    if (normalize(item.Traduction).includes(normQuery)) score += 10;
+
+    return score;
+}
+
+function updateSuggestions(query) {
+    const suggestionsBox = document.getElementById("suggestions");
+    suggestionsBox.innerHTML = "";
+
+    if (query.length < 1) return;
+
+    const matches = mots
+        .map(item => ({
+            ...item,
+            score: rankSuggestion(item, query)
+        }))
+        .filter(item => item.score > 0)
+        .sort((a, b) => b.score - a.score)
+        .slice(0, 20); // 20 suggestions max
+
+    matches.forEach(item => {
+        const div = document.createElement("div");
+        div.className = "suggestion-item";
+
+        const regex = new RegExp(`(${query})`, "gi");
+        const highlighted = item.Mot.replace(regex, "<span class='highlight'>$1</span>");
+
+        div.innerHTML = `${highlighted} <span style="color:#666;">– ${item.Traduction}</span>`;
+
+        div.onclick = () => {
+            document.getElementById("searchInput").value = item.Mot;
+            suggestionsBox.innerHTML = "";
+            displayResult(item);
+        };
+
+        suggestionsBox.appendChild(div);
+    });
 }
 
 // Fonction pour mettre en surbrillance les lettres correspondant à la saisie
