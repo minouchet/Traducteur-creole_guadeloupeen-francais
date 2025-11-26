@@ -124,3 +124,17 @@ footer {
         padding: 12px;
     }
 }
+
+.header-title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+}
+
+.header-logo {
+    width: 40px;   /* tu peux adapter */
+    height: 40px;  /* tu peux adapter */
+    border-radius: 6px; /* optionnel, pour arrondir */
+}
+
