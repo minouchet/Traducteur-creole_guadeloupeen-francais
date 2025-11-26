@@ -44,18 +44,71 @@ header p {
     border-color: #ff5733;
 }
 
+/* boutons */
+.search-buttons { display:inline-block; margin-left:8px; vertical-align: middle; }
+.search-btn {
+  padding: 8px 12px;
+  border-radius: 6px;
+  background:#ff9800;
+  color:#fff;
+  border:none;
+  cursor:pointer;
+}
+.showall-btn {
+  padding: 8px 12px;
+  border-radius: 6px;
+  background:#ffbd4a;
+  color:#333;
+  border:none;
+  cursor:pointer;
+}
+
+/* suggestions (déjà présentes mais on renforce) */
+.suggestions { position:absolute; left:50%; transform:translateX(-50%); top: calc(100% + 8px); width: min(92%,420px); z-index:100; }
+
+/* pagination */
+.pagination-btn {
+  display: inline-block;
+  margin: 0 4px;
+  padding: 6px 10px;
+  border-radius: 6px;
+  border: 1px solid rgba(0,0,0,0.08);
+  background: #fff;
+  cursor: pointer;
+}
+.pagination-btn.active {
+  background: #ffcc66;
+  font-weight: bold;
+  border-color: #ffb84d;
+}
+.pagination-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+/* petits ajustements pour les cartes si nécessaire */
+.card { cursor: pointer; transition: transform .08s ease; }
+.card:hover { transform: translateY(-2px); }
+
+
 /* SUGGESTIONS DROPDOWN */
 .suggestions {
-    border: 1px solid #e0c068;
-    border-radius: 5px;
-    background-color: #fff8e1;
-    max-height: 300px;
-    overflow-y: auto;
-    position: absolute;
-    width: 90%;
-    left: 50%;
-    transform: translateX(-50%);
-    z-index: 100;
+  position: absolute;
+  left: 50%;
+  top: calc(100% + 8px);       /* juste en dessous du champ */
+  transform: translateX(-50%);
+  width: min(92%, 420px);      /* s'adapte, max 420px */
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 100;
+  border: 1px solid #e0c068;
+  border-radius: 6px;
+  background: #fff8e1;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+  opacity: 0;
+  transform-origin: top center;
+  transition: opacity 0.25s ease, transform 0.25s ease;
+  pointer-events: none;
 }
 
 .suggestion-item {
@@ -63,8 +116,9 @@ header p {
     cursor: pointer;
 }
 
-.suggestion-item:hover {
-    background-color: #ffeeba;
+.suggestion-item:hover,
+.suggestion-item.selected {
+    background: #ffe39b;
 }
 
 /* HIGHLIGHT */
@@ -81,12 +135,12 @@ header p {
 }
 
 .card {
-    background: white;
-    border-left: 8px solid #ff5733;
-    padding: 15px;
-    margin-bottom: 20px;
-    border-radius: 8px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    background: #fff8e1;
+    border-radius: 6px;
+    padding: 14px;
+    margin-bottom: 12px;
+    border: 1px solid #e0c068;
+    cursor: pointer;
 }
 
 .card:hover {
@@ -138,3 +192,62 @@ footer {
     border-radius: 6px; /* optionnel, pour arrondir */
 }
 
+.active-suggestion {
+    background-color: #ffe08a !important;
+}
+
+/* Animation d'apparition de la liste de suggestions */
+.suggestions {
+    opacity: 0;
+    transform: translateY(-6px);
+    transition: opacity 0.25s ease, transform 0.25s ease;
+    pointer-events: none; /* évite clics avant l'apparition */
+}
+
+.suggestions.show {
+    opacity: 1;
+    transform: translateX(-50%) translateY(0);
+    pointer-events: auto;
+}
+
+/* Bouton en bas (Alé anwo) */
+.back-top-btn {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  padding: 10px 16px;
+  border-radius: 8px;
+  background: #ff9800;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  z-index: 999;
+}
+
+/* Bouton en haut (Alé anba) */
+.back-bottom-btn {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  padding: 10px 16px;
+  border-radius: 8px;
+  background: #009688;
+  color: white;
+  border: none;
+  cursor: pointer;
+  font-size: 15px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  z-index: 999;
+}
+
+/* Input "Mèt on paj" */
+.jump-input {
+  width: 120px;
+  padding: 6px;
+  margin-right: 6px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  text-align: center;
+}

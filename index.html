@@ -3,12 +3,14 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Traducteur Créole Guadeloupéen/Français</title>
+    <title>Traduction Créole Guadeloupéen ↔ Français – Dictionnaire</title>
 
     <link rel="stylesheet" href="style.css">
     <link rel="manifest" href="manifest.json">
 
     <meta name="theme-color" content="#ffcc00">
+
+    <meta name="description" content="Dictionnaire et traducteur créole guadeloupéen ↔ français. Recherche rapide, mots kréyòl, traductions, exemples et synonymes. Un outil simple pour apprendre le créole de Guadeloupe.">
 
     <link rel="apple-touch-icon" href="icons/icon-192.png">
     <link rel="apple-touch-icon" href="icons/icon-512.png">
@@ -25,17 +27,30 @@
 <header>
     <div class="header-title">
         <img src="icons/logo-header.png" alt="Logo" class="header-logo">
-        <h1>Traducteur Créole Guadeloupéen/Français</h1>
+        <h1>Traducteur Créole Guadeloupéen ↔ Français</h1>
     </div>
-    <p>Chalviraj kréyòl gwadloupéyen → fransé</p>
+    <p>Chalviraj kréyòl gwadloupéyen ↔ fransé</p>
 </header>
 
 <div class="search-container">
-    <input type="text" id="searchInput" placeholder="Tapez un mot kréyòl ou une traduction…">
-    <div id="suggestions" class="suggestions"></div>
+  <input type="text" id="searchInput" placeholder="Maké on mo kréyòl o on chalviraj…">
+  <div class="search-buttons">
+    <button id="searchBtn" class="search-btn">Chèché</button>
+  </div>
+
+  <!-- bouton Montré tout (sous la barre de recherche) -->
+  <div class="show-all-container" style="margin-top:8px; text-align:center;">
+    <button id="showAllBtn" class="showall-btn">Montré tout diksyonnè-la</button>
+  </div>
+
+  <div id="suggestions" class="suggestions" aria-label="Suggestions"></div>
 </div>
 
+<!-- zone résultats (inchangée) -->
 <div id="results"></div>
+
+<!-- pagination container -->
+<div id="pagination" style="max-width:800px;margin:12px auto 40px auto;text-align:center;"></div>
 
 <footer>
     © 2025 – Dictionnaire Kréyòl Gwadloup | Fè épi lanmou ❤️
