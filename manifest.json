@@ -1,10 +1,6 @@
 {
-  "name": "Dictionnaire Kréyòl Gwadloup",
-  "short_name": "KrèyolDict",
-  "start_url": "index.html",
-  "display": "standalone",
-  "background_color": "#fff8e6",
-  "theme_color": "#ffcc00",
+  "name": "Dictionnaire Kréyòl",
+  "short_name": "Dico Kréyòl",
   "icons": [
     {
       "src": "icons/icon-192.png",
@@ -16,5 +12,9 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffcc00"
 }
