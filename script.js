@@ -232,7 +232,13 @@ if (totalPages > 4) {
 jumpInput.addEventListener("keydown", (e) => {
   if (e.key === "Enter") {
     e.preventDefault();
-    goToPage();
+    const p = parseInt(jumpInput.value, 10);
+    if (!isNaN(p) && p >= 1 && p <= totalPages) {
+      goToPage(p);
+    } else {
+      jumpInput.value = "";
+      jumpInput.placeholder = "Paj pa bon";
+    }
   }
 });
 
@@ -262,7 +268,7 @@ jumpInput.addEventListener("keydown", (e) => {
     paginationDiv.innerHTML = "";
 
     if (!matches || matches.length === 0) {
-      resultsDiv.innerHTML = `<p>Aucun mot trouvé...</p>`;
+      resultsDiv.innerHTML = `<p>Pon mo touvé...</p>`;
       return;
     }
 
@@ -395,3 +401,4 @@ jumpInput.addEventListener("keydown", (e) => {
     items.forEach((el, i) => el.classList.toggle("selected", i === selectedIndex));
   }
 });
+
