@@ -33,24 +33,23 @@
 </header>
 
 <div class="search-container">
-
-  <!-- **Barre de recherche (unique !) + croix** -->
-  <div class="search-bar">
+  <div class="search-row">
+    <div class="search-bar">
       <input type="text" id="searchInput" placeholder="Maké on mo kréyòl o on chalviraj…">
       <span id="clearSearch" class="clear-btn">✕</span>
+
+      <!-- suggestions MUST be inside .search-bar so their absolute positioning is relative to it -->
+      <div id="suggestions" class="suggestions" aria-label="Suggestions"></div>
+    </div>
+
+    <div class="search-buttons">
+      <button id="searchBtn" class="search-btn">Chèché</button>
+    </div>
   </div>
 
-  <!-- bouton Chèché -->
-  <div class="search-buttons">
-    <button id="searchBtn" class="search-btn">Chèché</button>
-  </div>
-
-  <!-- bouton Montré tout -->
   <div class="show-all-container" style="margin-top:8px; text-align:center;">
     <button id="showAllBtn" class="showall-btn">Montré tout diksyonnè-la</button>
   </div>
-
-  <div id="suggestions" class="suggestions" aria-label="Suggestions"></div>
 </div>
 
 <!-- Résultats -->

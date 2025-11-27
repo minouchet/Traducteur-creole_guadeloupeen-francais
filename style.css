@@ -21,7 +21,7 @@ header {
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
-/* ---- LOGO + TITRE (corrigé : logo plus petit + aligné à gauche) ---- */
+/* ---- LOGO + TITRE (inchangés visuellement) ---- */
 .header-title {
     display: flex;
     justify-content: center;
@@ -30,7 +30,7 @@ header {
 }
 
 .header-logo {
-    height: 48px;  /* réduit largement */
+    height: 48px;
     width: auto;
 }
 
@@ -45,42 +45,40 @@ header p {
     font-size: 1.1em;
 }
 
-/* --- BARRE DE RECHERCHE (Option A) --- */
+/* --- BARRE DE RECHERCHE --- */
 
+/* container centré : garde l'apparence d'origine */
 .search-container {
     text-align: center;
     padding: 20px;
-
-    /* centrage horizontal garanti */
-    display: flex;
-    flex-direction: column;
-    align-items: center;
 }
 
-/* ligne contenant barre + bouton */
+/* ligne contenant barre + bouton : centre horizontalement l'ensemble */
 .search-row {
     display: flex;
-    justify-content: center;   /* centrage parfait */
+    justify-content: center;
     align-items: center;
     gap: 8px;
     width: 100%;
-    max-width: 600px;          /* empêche le bloc de partir à gauche */
+    max-width: 820px; /* limite globale pour centrer proprement */
+    margin: 0 auto;
 }
 
-/* Bloc barre + croix */
+/* Bloc barre + croix (relative pour suggestions) */
 .search-bar {
     position: relative;
     width: 80%;
-    max-width: 380px;
+    max-width: 420px; /* si besoin adapte, gère responsive */
 }
 
-/* Champ de recherche */
+/* Champ de recherche (conserve ton style) */
 #searchInput {
     width: 100%;
     padding: 12px 38px 12px 12px;
     font-size: 1.1em;
     border: 2px solid #ff9800;
     border-radius: 8px;
+    box-sizing: border-box;
 }
 
 #searchInput:focus {
@@ -104,7 +102,8 @@ header p {
     display: block;
 }
 
-/* Bouton CHÈCHÉ */
+/* bouton CHÈCHÉ : garde EXACT les couleurs et styles précédents */
+.search-buttons { display:inline-block; margin-left:8px; vertical-align: middle; }
 .search-btn {
     padding: 10px 14px;
     border-radius: 8px;
@@ -115,7 +114,7 @@ header p {
     white-space: nowrap;
 }
 
-/* Montré tout */
+/* Montré tout (sous la ligne) */
 .showall-btn {
     margin-top: 10px;
     padding: 8px 12px;
@@ -126,29 +125,30 @@ header p {
     color: #333;
 }
 
-/* Suggestions */
+/* SUGGESTIONS : POSITION RELATIVE À .search-bar */
 .suggestions {
     position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    width: min(92%, 380px);
+    top: calc(100% + 8px); /* juste sous l'input */
+    left: 0;                /* alignée à gauche de la search-bar */
+    width: 100%;            /* même largeur que la search-bar */
     background: #fff8e1;
     border: 1px solid #e0c068;
     border-radius: 6px;
-    margin-top: 6px;
     max-height: 300px;
     overflow-y: auto;
     box-shadow: 0 6px 18px rgba(0,0,0,0.08);
     opacity: 0;
     pointer-events: none;
-    transition: opacity .25s ease, transform .25s ease;
-    z-index: 200;
+    transition: opacity .20s ease, transform .18s ease;
+    transform: translateY(-4px);
+    z-index: 300;
 }
 
+/* class .show ajoutée par JS pour afficher */
 .suggestions.show {
     opacity: 1;
     pointer-events: auto;
-    transform: translateX(-50%) translateY(0);
+    transform: translateY(0);
 }
 
 .suggestion-item {
@@ -197,7 +197,7 @@ header p {
     font-weight: bold;
 }
 
-/* Boutons Anwo / Anba (inchangés) */
+/* Boutons Anwo / Anba */
 .back-top-btn,
 .back-bottom-btn {
     position: fixed;
@@ -207,15 +207,12 @@ header p {
     display: flex;
     justify-content: center;
     align-items: center;
-
     font-size: 13px;
     font-weight: bold;
-
     z-index: 999;
     border: none;
     color: white;
     cursor: pointer;
-
     box-shadow: 0 3px 6px rgba(0,0,0,0.25);
 }
 
@@ -231,9 +228,8 @@ header p {
     right: 18px;
 }
 
-/* VERSION MOBILE */
+/* MOBILE */
 @media (max-width: 600px) {
-
     .search-row {
         gap: 6px;
     }
