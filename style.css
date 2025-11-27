@@ -251,3 +251,16 @@ footer {
   border-radius: 6px;
   text-align: center;
 }
+
+/* Fix mobile overflow for scroll buttons */
+@media (max-width: 600px) {
+  .back-top-btn,
+  .back-bottom-btn {
+    right: 10px;         /* rapproche du bord */
+    left: auto;
+    width: auto;
+    max-width: 90vw;     /* empêche de déborder */
+    font-size: 14px;
+    padding: 8px 12px;
+  }
+}
