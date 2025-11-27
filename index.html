@@ -33,12 +33,19 @@
 </header>
 
 <div class="search-container">
-  <input type="text" id="searchInput" placeholder="Maké on mo kréyòl o on chalviraj…">
+
+  <!-- **Barre de recherche (unique !) + croix** -->
+  <div class="search-bar">
+      <input type="text" id="searchInput" placeholder="Maké on mo kréyòl o on chalviraj…">
+      <span id="clearSearch" class="clear-btn">✕</span>
+  </div>
+
+  <!-- bouton Chèché -->
   <div class="search-buttons">
     <button id="searchBtn" class="search-btn">Chèché</button>
   </div>
 
-  <!-- bouton Montré tout (sous la barre de recherche) -->
+  <!-- bouton Montré tout -->
   <div class="show-all-container" style="margin-top:8px; text-align:center;">
     <button id="showAllBtn" class="showall-btn">Montré tout diksyonnè-la</button>
   </div>
@@ -46,10 +53,10 @@
   <div id="suggestions" class="suggestions" aria-label="Suggestions"></div>
 </div>
 
-<!-- zone résultats (inchangée) -->
+<!-- Résultats -->
 <div id="results"></div>
 
-<!-- pagination container -->
+<!-- Pagination -->
 <div id="pagination" style="max-width:800px;margin:12px auto 40px auto;text-align:center;"></div>
 
 <footer>

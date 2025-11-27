@@ -57,6 +57,21 @@ document.addEventListener("DOMContentLoaded", () => {
   let currentQuery = "";
   let currentPage = 1;
 
+const clearBtn = document.getElementById("clearSearch");
+
+clearBtn.addEventListener("click", () => {
+  input.value = "";
+  suggestionsBox.classList.remove("show");
+  resultsDiv.innerHTML = "";
+  clearBtn.style.display = "none";
+  input.focus();
+});
+
+input.addEventListener("input", () => {
+  clearBtn.style.display = input.value.trim() ? "block" : "none";
+});
+
+
   // --- affichage dropdown (uniquement pendant la saisie) ---
   function showSuggestions(matches, query) {
     suggestionsBox.innerHTML = "";
@@ -213,6 +228,13 @@ if (totalPages > 4) {
 
   const jumpBtn = jumpDiv.querySelector("#jumpPageBtn");
   const jumpInput = jumpDiv.querySelector("#jumpPageInput");
+
+jumpInput.addEventListener("keydown", (e) => {
+  if (e.key === "Enter") {
+    e.preventDefault();
+    goToPage();
+  }
+});
 
   jumpBtn.addEventListener("click", () => {
     const p = parseInt(jumpInput.value, 10);

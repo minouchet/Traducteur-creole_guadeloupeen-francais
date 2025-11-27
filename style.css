@@ -252,14 +252,72 @@ footer {
   text-align: center;
 }
 
-/* ----- Correction mobile des boutons anwo/anba ----- */
+.clear-btn {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 20px;
+  color: #777;
+  cursor: pointer;
+  display: none;
+}
+
+#searchInput:not(:placeholder-shown) + .clear-btn {
+  display: block;
+}
+
+/* ----- Version mobile : petits boutons carrés ----- */
 @media (max-width: 600px) {
+
   .back-top-btn,
   .back-bottom-btn {
-    right: 8px !important;
-    left: 8px !important;
-    width: calc(100% - 16px);
-    text-align: center;
-    font-size: 16px;
+    width: 45px !important;
+    height: 45px !important;
+    padding: 0;
+    border-radius: 8px;
+    right: 10px !important;
+    left: auto !important;
+    font-size: 14px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
+
+  .back-top-btn {
+    bottom: 14px !important;
+  }
+
+  .back-bottom-btn {
+    top: 14px !important;
+  }
+}
+
+/* Barre de recherche avec croix intégrée */
+.search-bar {
+  position: relative;
+  display: inline-block;
+  width: 90%;
+  max-width: 420px;
+}
+
+#searchInput {
+  width: 100%;
+  padding-right: 38px; /* place pour le X */
+}
+
+.clear-btn {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 18px;
+  color: #777;
+  cursor: pointer;
+  display: none;
+  user-select: none;
+}
+
+#searchInput:not(:placeholder-shown) + .clear-btn {
+  display: block;
 }
