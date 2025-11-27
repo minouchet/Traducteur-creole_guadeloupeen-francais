@@ -1,245 +1,280 @@
-/* -----------------------
-   BASE GÉNÉRALE
------------------------- */
-html, body {
-    margin: 0;
-    padding: 0;
-    font-family: Arial, sans-serif;
-    background: #fffbe9;
-    overflow-x: hidden;
-    touch-action: pan-y;
-}
-
-body {
+/* GLOBAL */
+* {
+    box-sizing: border-box;
     max-width: 100%;
 }
 
-/* Empêche le zoom sur mobile */
-input, button {
-    font-size: 16px !important;
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: "Trebuchet MS", sans-serif;
+    background: #fff8e6;
+    overflow-x: hidden;
+    touch-action: manipulation;
 }
 
-
-/* -----------------------
-   HEADER
------------------------- */
 header {
+    background: linear-gradient(to right, #ffcc00, #ff5733);
+    padding: 25px 15px;
     text-align: center;
-    padding: 16px 10px 20px 10px;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
+/* ---- LOGO + TITRE (corrigé : logo plus petit + aligné à gauche) ---- */
 .header-title {
     display: flex;
-    align-items: center;
     justify-content: center;
+    align-items: center;
     gap: 12px;
 }
 
-/* Logo remis "comme avant" */
 .header-logo {
-    height: 38px;
+    height: 48px;  /* réduit largement */
     width: auto;
-    object-fit: contain;
 }
 
+/* TITRES */
 header h1 {
-    font-size: 20px;
     margin: 0;
+    font-size: 2em;
 }
 
 header p {
-    margin-top: 4px;
-    font-size: 13px;
-    color: #444;
+    margin-top: 6px;
+    font-size: 1.1em;
 }
 
-
-/* -----------------------
-   SEARCH BAR
------------------------- */
+/* --- BARRE DE RECHERCHE (Option A) --- */
 
 .search-container {
-    max-width: 600px;
-    margin: 0 auto;
-    padding: 0 12px;
     text-align: center;
+    padding: 20px;
+
+    /* centrage horizontal garanti */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 
-/* Conteneur centré */
+/* ligne contenant barre + bouton */
+.search-row {
+    display: flex;
+    justify-content: center;   /* centrage parfait */
+    align-items: center;
+    gap: 8px;
+    width: 100%;
+    max-width: 600px;          /* empêche le bloc de partir à gauche */
+}
+
+/* Bloc barre + croix */
 .search-bar {
     position: relative;
-    margin: 0 auto;
-    width: 100%;
-    max-width: 600px;
+    width: 80%;
+    max-width: 380px;
 }
 
-/* Champ centré */
-.search-bar input {
+/* Champ de recherche */
+#searchInput {
     width: 100%;
-    padding: 12px 40px 12px 14px;
-    border: 2px solid #ffcc00;
+    padding: 12px 38px 12px 12px;
+    font-size: 1.1em;
+    border: 2px solid #ff9800;
     border-radius: 8px;
-    font-size: 16px;
-    box-sizing: border-box;
 }
 
-/* Croix *dans* la barre */
+#searchInput:focus {
+    border-color: #ff5733;
+}
+
+/* Croix dans la barre */
 .clear-btn {
     position: absolute;
-    right: 12px;
+    right: 10px;
     top: 50%;
     transform: translateY(-50%);
-    cursor: pointer;
     font-size: 18px;
-    color: #555;
-    opacity: 0.7;
+    cursor: pointer;
+    color: #777;
+    user-select: none;
+    display: none;
 }
 
-.clear-btn:hover {
-    opacity: 1;
+#searchInput:not(:placeholder-shown) + .clear-btn {
+    display: block;
 }
 
+/* Bouton CHÈCHÉ */
+.search-btn {
+    padding: 10px 14px;
+    border-radius: 8px;
+    background: #ff9800;
+    color: white;
+    border: none;
+    cursor: pointer;
+    white-space: nowrap;
+}
 
-/* -----------------------
-   SUGGESTIONS
------------------------- */
-.suggestions {
-    background: white;
-    border: 1px solid #ddd;
+/* Montré tout */
+.showall-btn {
+    margin-top: 10px;
+    padding: 8px 12px;
     border-radius: 6px;
-    margin-top: 4px;
-    max-height: 260px;
-    overflow-y: auto;
-    width: 100%;
+    background: #ffbd4a;
+    border: none;
+    cursor: pointer;
+    color: #333;
+}
+
+/* Suggestions */
+.suggestions {
     position: absolute;
     left: 50%;
     transform: translateX(-50%);
-    z-index: 20;
-    max-width: 600px;
+    width: min(92%, 380px);
+    background: #fff8e1;
+    border: 1px solid #e0c068;
+    border-radius: 6px;
+    margin-top: 6px;
+    max-height: 300px;
+    overflow-y: auto;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+    opacity: 0;
+    pointer-events: none;
+    transition: opacity .25s ease, transform .25s ease;
+    z-index: 200;
 }
 
-.suggestions div {
+.suggestions.show {
+    opacity: 1;
+    pointer-events: auto;
+    transform: translateX(-50%) translateY(0);
+}
+
+.suggestion-item {
     padding: 10px;
     cursor: pointer;
 }
 
-.suggestions div:hover {
-    background: #ffeaaa;
+.suggestion-item:hover,
+.suggestion-item.selected {
+    background: #ffe39b;
 }
 
-
-/* -----------------------
-   BOUTON MONTRÉ TOUT
------------------------- */
-.showall-btn {
-    background: #ffcc00;
-    border: none;
-    padding: 10px 14px;
-    font-size: 16px;
-    border-radius: 8px;
-    cursor: pointer;
-}
-
-.showall-btn:hover {
-    background: #ffdd33;
-}
-
-
-/* -----------------------
-   RÉSULTATS
------------------------- */
+/* RESULTS */
 #results {
+    padding: 20px;
     max-width: 800px;
-    margin: 20px auto;
-    padding: 0 12px;
+    margin: auto;
 }
 
-
-/* -----------------------
-   PAGINATION
------------------------- */
-#pagination {
-    margin-top: 20px;
-}
-
-.page-btn,
-.page-jump-btn {
-    display: inline-block;
-    margin: 4px;
-    padding: 6px 10px;
-    border: 1px solid #aaa;
+.card {
+    background: #fff8e1;
     border-radius: 6px;
+    padding: 14px;
+    margin-bottom: 12px;
+    border: 1px solid #e0c068;
     cursor: pointer;
+}
+
+.card:hover {
+    background: #fff2b8;
+}
+
+/* Pagination */
+.pagination-btn {
+    margin: 0 4px;
+    padding: 6px 10px;
+    border-radius: 6px;
+    border: 1px solid rgba(0,0,0,0.1);
     background: white;
-}
-
-.page-btn.active {
-    background: #ffcc00;
-}
-
-
-/* -----------------------
-   BOUTONS ANWO / ANBA
------------------------- */
-
-.scroll-btn {
-    width: 42px;
-    height: 42px;
-    background: #ffcc00;
-    border-radius: 10px;
-    border: none;
-    font-size: 20px;
-    font-weight: bold;
     cursor: pointer;
-    display: block;
-    margin: 12px auto;
 }
 
-.scroll-btn:hover {
-    background: #ffdd33;
+.pagination-btn.active {
+    background: #ffcc66;
+    border-color: #ffb84d;
+    font-weight: bold;
 }
 
+/* Boutons Anwo / Anba (inchangés) */
+.back-top-btn,
+.back-bottom-btn {
+    position: fixed;
+    width: 48px;
+    height: 48px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 
-/* -----------------------
-   FOOTER
------------------------- */
+    font-size: 13px;
+    font-weight: bold;
+
+    z-index: 999;
+    border: none;
+    color: white;
+    cursor: pointer;
+
+    box-shadow: 0 3px 6px rgba(0,0,0,0.25);
+}
+
+.back-top-btn {
+    background: #ff9800;
+    bottom: 18px;
+    right: 18px;
+}
+
+.back-bottom-btn {
+    background: #009688;
+    top: 18px;
+    right: 18px;
+}
+
+/* VERSION MOBILE */
+@media (max-width: 600px) {
+
+    .search-row {
+        gap: 6px;
+    }
+
+    .search-bar {
+        width: 75%;
+        max-width: 320px;
+    }
+
+    #searchInput {
+        font-size: 1em;
+        padding: 10px 36px 10px 10px;
+    }
+
+    .clear-btn {
+        font-size: 16px;
+        right: 10px;
+    }
+
+    .back-top-btn,
+    .back-bottom-btn {
+        width: 42px;
+        height: 42px;
+        font-size: 12px;
+        right: 10px;
+    }
+
+    .back-top-btn {
+        bottom: 12px;
+    }
+
+    .back-bottom-btn {
+        top: 12px;
+    }
+}
+
+/* FOOTER */
 footer {
     text-align: center;
-    padding: 20px;
+    padding: 15px;
+    background: #ffcc00;
+    color: #333;
     margin-top: 40px;
-    font-size: 14px;
-    color: #444;
-}
-
-
-/* -----------------------
-   MOBILE FIXES
------------------------- */
-
-@media (max-width: 480px) {
-
-    .header-title {
-        gap: 8px;
-    }
-
-    .header-logo {
-        height: 32px;
-    }
-
-    header h1 {
-        font-size: 18px;
-    }
-
-    /* Suggestions adaptées */
-    .suggestions {
-        max-width: 95%;
-    }
-
-    /* Boutons anwo/anba parfaitement centrés */
-    .scroll-btn {
-        width: 38px;
-        height: 38px;
-        font-size: 18px;
-        margin: 10px auto;
-    }
 }
