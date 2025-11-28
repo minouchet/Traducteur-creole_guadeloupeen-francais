@@ -274,3 +274,12 @@ footer {
     color: #333;
     margin-top: 40px;
 }
+
+/* SURBRILLANCE — visible et jolie */
+.highlight {
+  background-color: #ffe066;   /* jaune doux */
+  padding: 0 4px;             /* petit coussinet autour */
+  border-radius: 3px;
+  color: inherit;             /* conserve la couleur du texte */
+  font-weight: 600;
+}

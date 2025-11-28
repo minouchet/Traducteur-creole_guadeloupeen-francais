@@ -15,8 +15,11 @@ function escapeRegex(s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); }
 function highlight(text, query) {
   if (!text) return "—";
   if (!query) return text;
+
   const safeQ = escapeRegex(query);
   const regex = new RegExp(`(${safeQ})`, "gi");
+
+  // Highlight dans tout type de texte (phrase, liste, etc.)
   return text.replace(regex, "<span class='highlight'>$1</span>");
 }
 
@@ -25,13 +28,23 @@ function highlight(text, query) {
 function getRankedMatches(query) {
   const q = query.toLowerCase();
 
+  // Mot
   const exactMot = data.filter(e => e.Mot?.toLowerCase() === q);
   const startsMot = data.filter(e => e.Mot?.toLowerCase().startsWith(q) && e.Mot.toLowerCase() !== q);
   const containsMot = data.filter(e => e.Mot?.toLowerCase().includes(q) && !e.Mot.toLowerCase().startsWith(q));
 
+  // Traduction
   const exactTrad = data.filter(e => e.Traduction?.toLowerCase() === q);
   const startsTrad = data.filter(e => e.Traduction?.toLowerCase().startsWith(q) && e.Traduction.toLowerCase() !== q);
   const containsTrad = data.filter(e => e.Traduction?.toLowerCase().includes(q) && !e.Traduction.toLowerCase().startsWith(q));
+
+  // Exemples → troisième couche
+  const containsEx = data.filter(e =>
+    e.Exemples &&
+    e.Exemples.toLowerCase().includes(q) &&
+    !(e.Mot?.toLowerCase().includes(q)) &&
+    !(e.Traduction?.toLowerCase().includes(q))
+  );
 
   return [
     ...exactMot,
@@ -39,7 +52,10 @@ function getRankedMatches(query) {
     ...containsMot,
     ...exactTrad,
     ...startsTrad,
-    ...containsTrad
+    ...containsTrad,
+
+    // ajouté en dernier
+    ...containsEx
   ];
 }
 
@@ -305,8 +321,8 @@ jumpInput.addEventListener("keydown", (e) => {
     card.innerHTML = `
       <h2>${highlight(item.Mot || "", query)}</h2>
       <p><strong>Traduction :</strong> ${highlight(item.Traduction || "", query)}</p>
-      <p><strong>Exemples :</strong> ${item.Exemples || "—"}</p>
-      <p><strong>Synonymes :</strong> ${item.Synonymes || "—"}</p>
+      <p><strong>Exemples :</strong> ${highlight(item.Exemples || "—", query)}</p>
+      <p><strong>Synonymes :</strong> ${highlight(item.Synonymes || "—", query)}</p>
     `;
     return card;
   }
