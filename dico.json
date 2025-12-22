@@ -2370,6 +2370,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "ANMAFWÈZ",
+    "Traduction": "prostituée",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "ANMAL",
     "Traduction": "avec une mauvaise intention (contraire de ANBYEN)",
     "Exemples": "I pa di-w sa anmal : Il ne te l'a pas dit avec une mauvaise intention.",
@@ -10676,7 +10682,7 @@
   {
     "Mot": "DALO",
     "Traduction": "Caniveau, rigole",
-    "Exemples": "Fè on koul dalo (Manger de la vache enragée), Ratd-alo (Prostituée, traînée)",
+    "Exemples": "Fè on koul dalo (Manger de la vache enragée), Rat-dalo (Prostituée, traînée)",
     "Synonymes": "dal"
   },
   {
@@ -29593,7 +29599,7 @@
   },
   {
     "Mot": "LABOUYI-MAYIS",
-    "Traduction": "Mélange, méli-mélo, fatras, embrouillamini",
+    "Traduction": "Bouillie de maïs",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -29797,8 +29803,14 @@
   },
   {
     "Mot": "LAFYÈV",
-    "Traduction": "Fièvre, Lafyèv-é-frison (Inséparables, cul-et-chemise (fièvre et frissons))",
+    "Traduction": "Fièvre",
     "Exemples": "Lafyèv ka ba-y latranblad (Il tremble de fièvre)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "LAFYÈV",
+    "Traduction": "Lafyèv-é-frison (Inséparables, cul-et-chemise (fièvre et frissons))",
+    "Exemples": "-",
     "Synonymes": "bag-é-dwèt"
   },
   {
@@ -32311,9 +32323,15 @@
   },
   {
     "Mot": "LÈSPRI",
-    "Traduction": "Esprit, diable, fantôme, zombi, Esprit, intelligence, âme",
-    "Exemples": "I ni lèspri si-y/Lèspri rantré si-y (Il est possédé par le diable), Ou ka tèrbolizé lèspri an-mwen (Tu m'échauffes la tête./Tu me pompes l'air./Tu m'énerves), Lèspri pa té la/Lèspri déchiré (Un moment de distraction/l'esprit ailleurs), I li an lèspri a-y (Elle a lu dans ses pensées), Yo pran lèspri a-y (On lui a si bien troublé l'esprit qu'elle ne sait plus ce qu'elle voulait), Moun a ti lèspri (Gens à l'esprit étroit)",
-    "Synonymes": "zèspri,zonbi,tèt,sèvèl,lidé"
+    "Traduction": "Esprit, diable, fantôme, zombi",
+    "Exemples": "I ni lèspri si-y/Lèspri rantré si-y (Il est possédé par le diable)",
+    "Synonymes": "zèspri,zonbi"
+  },
+  {
+    "Mot": "LÈSPRI",
+    "Traduction": " Esprit, intelligence, âme",
+    "Exemples": " Ou ka tèrbolizé lèspri an-mwen (Tu m'échauffes la tête./Tu me pompes l'air./Tu m'énerves), Lèspri pa té la/Lèspri déchiré (Un moment de distraction/l'esprit ailleurs), I li an lèspri a-y (Elle a lu dans ses pensées), Yo pran lèspri a-y (On lui a si bien troublé l'esprit qu'elle ne sait plus ce qu'elle voulait), Moun a ti lèspri (Gens à l'esprit étroit)",
+    "Synonymes": "tèt,sèvèl,lidé"
   },
   {
     "Mot": "LÈSPWA",
@@ -32773,7 +32791,7 @@
   },
   {
     "Mot": "LIMON",
-    "Traduction": "Limon, gros citron qui sert à nettoyer le poisson ou les tripes, Mousse verdâtre, dépôt",
+    "Traduction": "Limon, gros citron qui sert à nettoyer le poisson ou les tripes",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -32791,7 +32809,7 @@
   },
   {
     "Mot": "LIMYÈ",
-    "Traduction": "Lumière provenant d'une bougie, d'une lampe, électricité, Clarté, Lumière de l'esprit, clairvoyance",
+    "Traduction": "Lumière provenant d'une bougie, d'une lampe, électricité",
     "Exemples": "Yo pran limyè-la (Il y a une coupure d'électricité), Limé limyè-la ! (Allume !)",
     "Synonymes": "lèktrisité,kouran"
   },
@@ -33235,9 +33253,21 @@
   },
   {
     "Mot": "LONGÈ/LONGYÈ",
-    "Traduction": "Longueur, Gran-longyè (Grande bringue/grande perche), Longyè-a-pyé (Pointure)",
-    "Exemples": "hòkò,mizi,niméro-a-pyé,pwenti",
-    "Synonymes": ""
+    "Traduction": "Longueur",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "LONGÈ/LONGYÈ",
+    "Traduction": " Gran-longyè (Grande bringue/grande perche)",
+    "Exemples": "-",
+    "Synonymes": "hòkò"
+  },
+  {
+    "Mot": "LONGÈ/LONGYÈ",
+    "Traduction": "Longyè-a-pyé (Pointure)",
+    "Exemples": "-",
+    "Synonymes": "mizi,niméro-a-pyé,pwenti"
   },
   {
     "Mot": "LONGVI",
@@ -33655,7 +33685,13 @@
   },
   {
     "Mot": "LYANNÉ",
-    "Traduction": "Liés, unis, Lier, relier, unir",
+    "Traduction": "Liés, unis",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "LYANNÉ",
+    "Traduction": "Lier, relier, unir",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -39877,7 +39913,7 @@
   },
   {
     "Mot": "PAL",
-    "Traduction": "Aide, coup de main, Soulagement, Acompte",
+    "Traduction": "Aide, coup de main",
     "Exemples": "Bay on pal (Aider)",
     "Synonymes": "favè, démélé"
   },
@@ -40183,7 +40219,7 @@
   },
   {
     "Mot": "PAPYÉ",
-    "Traduction": "Papier, Billet, Amende, Papiers, documents importants",
+    "Traduction": "Papier",
     "Exemples": "Papyé sablé (Papier émeri)",
     "Synonymes": "-"
   },
@@ -40243,7 +40279,7 @@
   },
   {
     "Mot": "PARÉ",
-    "Traduction": "Recevoir, recueillir, S'abriter, abriter, Abri,",
+    "Traduction": "Recevoir, recueillir",
     "Exemples": "Paré boul-la (Attrape le ballon), Sé on bari pou paré dlo-lapli (C'est un baril pour recevoir l'eau de pluie)",
     "Synonymes": "kyenbé"
   },
@@ -40345,7 +40381,7 @@
   },
   {
     "Mot": "PARÒL/PAWÒL",
-    "Traduction": "Parole, mot, bavardage, Commérages, potins, cancans, Bruit qui court, on-dit, Causerie",
+    "Traduction": "Parole, mot, bavardage",
     "Exemples": "Twòp pawòl ban-mwen (Tu parles trop), Pa détouné pawòl-la (Ne change pas de sujet), Pawòl a-w sé ta-w (C'est toi qui le dis), Arété pawòl-la/Kyouyé pawòl-la (N'en parlons plus), Mi bèl pawòl mi! (Bien dit !/Bien parlé !), Sé moun a bèl-pawòl (Il nous endort avec ses belles promesses), Pawòl-la an plas a-y (Bien dit !/Bien parlé !), Pawòl ka palé (Les choses se répètent), Pawòl sèryé (Je parle sérieusement), Pawòl a-y pa ni bout (Il n'en finit pas de parler), Pawòl ka menné pawòl (Un sujet de conversation en amène un autre), Pawòl a-w bout? (Tu n'as plus rien à dire ?), Ou détouné pawòl-la (Tu as changé de sujet), Absòbé pawòl (Boire les paroles de quelqu'un), Pawòl a vyémoun/pawòl a moun-lontan/pawòl a salomon (Proverbes, dictons, maximes, sentences), Valé pawòl a-w (Tais-toi), Pawòl malélivé (Grossièretés, mots orduriers), Pawòl an bouch (Bavardages, balivernes, mensonges, banalités), Pawòl an zòrèy (Confidence), A! ou ka fè pawòl (Je suis sûr que tu en rajoutes)",
     "Synonymes": "palé, lapawòl, pé, tipawòl"
   },
@@ -40711,7 +40747,7 @@
   },
   {
     "Mot": "PAYÉ",
-    "Traduction": "Tomber en s'éparpillant, en s'écrasant, s'égailler, se disperser, s'éparpiller, Éclabousser, jaillir, Parier, miser, Pari",
+    "Traduction": "Tomber en s'éparpillant, en s'écrasant, s'égailler, se disperser, s'éparpiller",
     "Exemples": "I voyé mango-la tout fòs a-y, mango-la payé si masonn-la (La mangue lancée avec force s'est écrasée sur le mur), Lè papa-la rivé, tout bannélo payé (À l'arrivée de son père, les copains se sont tous dispersés)",
     "Synonymes": "cha, gayé"
   },
@@ -40783,9 +40819,15 @@
   },
   {
     "Mot": "PÉCHÉ",
-    "Traduction": "Pêcher, aller à la pêche, Piquer du nez en somnolant, Péché",
-    "Exemples": "Péché bougo/Péché lanbi (Somnoler), Fè péché (Commettre un péché, pécher), Pa rété si péché parés a-w (Réagis/Ne laisse pas faire les événements/Ne t'englue pas dans la paresse)",
+    "Traduction": "Pêcher, aller à la pêche",
+    "Exemples": "Péché bougo/Péché lanbi (Somnoler, piquer du nez en somnolant)",
     "Synonymes": "bobi, piké létèt"
+  },
+  {
+    "Mot": "PÉCHÉ",
+    "Traduction": "Péché",
+    "Exemples": "Fè péché (Commettre un péché, pécher), Pa rété si péché parés a-w (Réagis/Ne laisse pas faire les événements/Ne t'englue pas dans la paresse)",
+    "Synonymes": "-"
   },
   {
     "Mot": "PÉCHÈ",
@@ -42109,7 +42151,7 @@
   },
   {
     "Mot": "PLAN/TIRÉ PLAN",
-    "Traduction": "Faire de vains projets, tirer des plans sur la comète, Mentir, ruser, Tirer au flanc",
+    "Traduction": "Faire de vains projets, tirer des plans sur la comète",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -42547,7 +42589,7 @@
   },
   {
     "Mot": "PLIM",
-    "Traduction": "Plume à écrire",
+    "Traduction": "Plume de volatile",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -43921,14 +43963,14 @@
   },
   {
     "Mot": "PRI",
-    "Traduction": "Ankylosé, Pris, attrapé, Pétrifié, Mourir, se marier, Timide, plouc, empoté, Coincer, coincé, Être embobiné",
-    "Exemples": "Ou byen pri! (Tu es bien attrapé !)",
+    "Traduction": "Ankylosé",
+    "Exemples": "-",
     "Synonymes": "angoudi"
   },
   {
     "Mot": "PRI",
     "Traduction": "Pris, attrapé",
-    "Exemples": "-",
+    "Exemples": "Ou byen pri! (Tu es bien attrapé !)",
     "Synonymes": "-"
   },
   {
@@ -44233,7 +44275,7 @@
   },
   {
     "Mot": "PWÈL",
-    "Traduction": "Poil, Beaucoup, Contenu d'une poêle",
+    "Traduction": "Poil",
     "Exemples": "Menm bèt, menm pwèl (Bonnet blanc et blanc bonnet), Men a-y ni pwèl (Il ne sait rien faire de ses dix doigts/Il a un poil dans la main/Il est malhabile), Pwèl-a-zyé (Cil), Chabin a pwèl si (Rouquine) ",
     "Synonymes": "pòk"
   },
@@ -44265,7 +44307,7 @@
     "Mot": "PWEN",
     "Traduction": "Secret",
     "Exemples": "Misyé pa ka ba moun pwen a-y (Cet homme ne donne pas son secret)",
-    "Synonymes": ""
+    "Synonymes": "-"
   },
   {
     "Mot": "PWENN",
@@ -44462,31 +44504,31 @@
   {
     "Mot": "RABAN",
     "Traduction": "Cordelette pour attacher le bout de la voile au bout du gui",
-    "Exemples": "",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
     "Mot": "RABLÈT",
     "Traduction": "Raclette utilisée dans le four à pain",
-    "Exemples": "",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
     "Mot": "RABÒT / RABO",
     "Traduction": "Instrument qui sert à remuer la farine de manioc sur la « platine » durant la cuisson",
-    "Exemples": "",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
     "Mot": "RACH",
     "Traduction": "Hache",
-    "Exemples": "",
+    "Exemples": "-",
     "Synonymes": "hach"
   },
   {
     "Mot": "RACHÉ",
     "Traduction": "Hacher",
-    "Exemples": "",
+    "Exemples": "-",
     "Synonymes": "haché"
   },
   {
