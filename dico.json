@@ -480,6 +480,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "AJANDA",
+    "Traduction": "Agenda",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "AJÉ / AJÉKON / AJÉKONTINYÉ",
     "Traduction": "continuellement, sans cesse, tout le temps, sans arrêt",
     "Exemples": "Dépi bonmaten, i ka jwé ajé : Il joue sans arrêt depuis ce matin.",
@@ -1207,6 +1213,12 @@
   },
   {
     "Mot": "ALÉVINI",
+    "Traduction": "Circulation",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "ALÉVINI",
     "Traduction": "promener, se promener, déambuler",
     "Exemples": "Ou pa las alévini ? : Tu n'es pas fatigué de faire les cent pas ?",
     "Synonymes": "ponmlé, ponponm, lari, drivé"
@@ -1638,6 +1650,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "ANBOUTÉYAJ",
+    "Traduction": "Embouteillage, bouchon",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "ANBRANN",
     "Traduction": "s'activer",
     "Exemples": "Lè i anbrann i pa ni tan pou palé : Quand elle s'active, elle n'a pas le temps de bavarder.",
@@ -1832,6 +1850,12 @@
   {
     "Mot": "ANDÉRIBÉNAL",
     "Traduction": "débauché, dévergondé.",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "ANDÈTMAN",
+    "Traduction": "Endettement",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -2062,6 +2086,12 @@
     "Traduction": "immédiatement, tout de suite",
     "Exemples": "-",
     "Synonymes": "alè, onfwa"
+  },
+  {
+    "Mot": "ANGA",
+    "Traduction": "Hangar",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "ANGAJÉ",
@@ -2646,6 +2676,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "ANNATANMAN",
+    "Traduction": "Compréhension",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "ANNATANNAN",
     "Traduction": "en attendant, cependant",
     "Exemples": "Annatannan, mwen, an nèy : En attendant, moi, je suis sans rien.",
@@ -2733,6 +2769,12 @@
     "Mot": "ANONIM / ANNONIM",
     "Traduction": "anonyme.",
     "Exemples": "Lèt annonim : Lettre anonyme.",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "ANONSÉ",
+    "Traduction": "Annoncer, annoncé",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -2928,6 +2970,12 @@
     "Synonymes": "razyé"
   },
   {
+    "Mot": "ANRÈJISTRÈMAN",
+    "Traduction": "Enregistrement",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "ANRÉTRÈT",
     "Traduction": "à la retraite",
     "Exemples": "-",
@@ -2974,6 +3022,12 @@
     "Traduction": "En même temps, aussitôt",
     "Exemples": "Ansanm-ansanm annou vansé : Progressons ensemble",
     "Synonymes": "bita-bita"
+  },
+  {
+    "Mot": "ANSANMAN",
+    "Traduction": "Dès que",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "ANSANTÉ",
@@ -3225,6 +3279,12 @@
     "Mot": "ANTRÉ",
     "Traduction": "arrivée, arriver.",
     "Exemples": "A ki lè antré a kous-la ? : À quelle heure est fixée l'arrivée de la course ?",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "ANNANTRÉ",
+    "Traduction": "Entrée (hors-d'oeuvre)",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -3648,6 +3708,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "ASÉZONÉ",
+    "Traduction": "Assaisonner",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "ASI",
     "Traduction": "sur, dessus",
     "Exemples": "Klé-la anho a bifé-la : La clé est sur le dessus du buffet.",
@@ -3674,7 +3740,7 @@
   {
     "Mot": "ASIPARÉ",
     "Traduction": "il semble que, on dirait, apparemment",
-    "Exemples": "Asiparé an fè-w kèchòz : On dirait que tu m'en veux.",
+    "Exemples": "Asiparé an fè-w kèkchòz : On dirait que tu m'en veux.",
     "Synonymes": "-"
   },
   {
@@ -4026,6 +4092,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "AW",
+    "Traduction": "Art",
+    "Exemples": "Sé aw an-mwen : C'est mon art",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "AWA",
     "Traduction": "non, pas du tout",
     "Exemples": "Awa, pa fè sa : Non, ne fais pas ça !",
@@ -4086,6 +4158,18 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "AWTISTIK",
+    "Traduction": "artistique",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "AWTIK",
+    "Traduction": "article, articles",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "AWTIZAN",
     "Traduction": "artisan.",
     "Exemples": "-",
@@ -4096,6 +4180,12 @@
     "Traduction": "aller",
     "Exemples": "O zòt ay ? : Où êtes-vous allés ?",
     "Synonymes": "alé"
+  },
+  {
+    "Mot": "AY (-PRÉVWA)",
+    "Traduction": "Aller en quête de, à la recherche de",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "A-Y",
@@ -5040,7 +5130,7 @@
     "Synonymes": "anfiyansé"
   },
   {
-    "Mot": "BASKÉT",
+    "Mot": "BASKÈT",
     "Traduction": "basket.",
     "Exemples": "-",
     "Synonymes": "-"
@@ -5060,7 +5150,7 @@
   {
     "Mot": "BAT",
     "Traduction": "battre, frapper, taper",
-    "Exemples": "Bat ka-la : Frappe le tambour. Bèf-la ka bat : Le bœuf est méchant. Ou ka bat fès a-w twa fwa : Tu te débrouilles, tu te démènes",
+    "Exemples": "Bat ka-la : Frappe le tambour. Bèf-la ka bat : Le bœuf est méchant. Ou ka bat fès a-w twa fwa : Tu te débrouilles, tu te démènes. Bat kò :  se débrouiller",
     "Synonymes": "-"
   },
   {
@@ -5098,6 +5188,12 @@
     "Traduction": "ébruiter, répandre une nouvelle, annoncer",
     "Exemples": "Ou anmé ay bat tousa yo ka di-w : Tu prends plaisir à ébruiter tout ce que l'on te confie. Fè bat : Énerver, exaspérer. Bat toupatou : Ébruiter, crier sur les toits. An ni on lagrip ka bat-mwen : Je suis sur le point d'avoir la grippe.",
     "Synonymes": "pibliyé, lavwa, piblisité, kòlpòté, pòté alé, lantou, won"
+  },
+  {
+    "Mot": "BAT (-KAT)",
+    "Traduction": "S'organiser",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "BATA",
@@ -5173,6 +5269,12 @@
   },
   {
     "Mot": "BATIMAN",
+    "Traduction": "Bâtiment, immeuble, édifice",
+    "Exemples": "",
+    "Synonymes": ""
+  },
+  {
+    "Mot": "BATIMAN",
     "Traduction": "bateau, navire, navire-bananier, par extension : gros, volumineux",
     "Exemples": "-",
     "Synonymes": "bato"
@@ -5232,6 +5334,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "BATRI",
+    "Traduction": "Batterie",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "BATRI / SIWO-BATRI",
     "Traduction": "mélasse (jus de canne concentré)",
     "Exemples": "Yo ka fè mas kongo épi siwo-batri : Les « masques à congo » (de carnaval) se couvrent le corps de mélasse.",
@@ -5281,7 +5389,7 @@
   },
   {
     "Mot": "BAWO",
-    "Traduction": "plein à ras bord, bondé, rassasié",
+    "Traduction": "plein à ras bord, bondé, archi complet, rassasié",
     "Exemples": "-",
     "Synonymes": "arékaba"
   },
@@ -5294,7 +5402,7 @@
   {
     "Mot": "BAY",
     "Traduction": "donner. BAY devient BA devant W-Y-ZÒT-YO ou devant un nom. BAY devient BAN devant MWEN-NOU",
-    "Exemples": "Ba Jak : Donnes-en à Jacques. Ka i mandé-w ou pa ba-y ? : Que t'a-t-il demandé que tu ne lui as pas donné ? Ou pa ba Jak hak : Tu n'as rien donné à Jacques. Ban-mwen on ti favè souplè : Laisse-moi un moment de répit.",
+    "Exemples": "Ba Jak : Donnes-en à Jacques. Ka i mandé-w ou pa ba-y ? : Que t'a-t-il demandé que tu ne lui as pas donné ? Ou pa ba Jak hak : Tu n'as rien donné à Jacques. Ban-mwen on ti favè souplè : Laisse-moi un moment de répit. Ban'an di-w sa ! : Écoute !",
     "Synonymes": "-"
   },
   {
@@ -6415,7 +6523,7 @@
   },
   {
     "Mot": "BISIKLÈT",
-    "Traduction": "bicyclette",
+    "Traduction": "bicyclette, vélo",
     "Exemples": "-",
     "Synonymes": "békàn"
   },
@@ -7214,7 +7322,7 @@
   {
     "Mot": "BÒNARIVÉ",
     "Traduction": "bienvenue",
-    "Exemples": "-",
+    "Exemples": "Bwè a bònarivé : pot de bienvenue",
     "Synonymes": "-"
   },
   {
@@ -7980,9 +8088,9 @@
     "Synonymes": "-"
   },
   {
-    "Mot": "BOULANJÉ",
+    "Mot": "BOULANJRI",
     "Traduction": "boulangerie",
-    "Exemples": "Boulanjé a-y ka wouvè pli bonnè ki yotout : Sa boulangerie ouvre plus tôt que les autres.",
+    "Exemples": "Boulanjri a-y ka wouvè pli bonnè ki yotout : Sa boulangerie ouvre plus tôt que les autres.",
     "Synonymes": "-"
   },
   {
@@ -8325,6 +8433,12 @@
     "Mot": "BOUTON",
     "Traduction": "Interrupteur",
     "Exemples": "Pijé bouton-la (Appuie sur l'interrupteur)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "BOUTONNÉ",
+    "Traduction": "Boutonner",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -8682,6 +8796,12 @@
     "Synonymes": "dézòdyè"
   },
   {
+    "Mot": "BRIKOLAJ",
+    "Traduction": "Bricolage",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "BRILAN",
     "Traduction": "Méduse",
     "Exemples": "Ni plizyè kalité brilan, ni yonn pwason ka manjé é yo ka ba-w sigwatéra (Il y a plusieurs sortes de méduses dont une que mangent les poissons qui vous donnent la ciguatera)",
@@ -8760,6 +8880,18 @@
     "Synonymes": "blé"
   },
   {
+    "Mot": "BRÒS/BWÒS",
+    "Traduction": "Brosse",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "BROSÉ",
+    "Traduction": "Brosser",
+    "Exemples": "Brosé dan a-w (Brosse tes dents)",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "BWA",
     "Traduction": "Bras",
     "Exemples": "Ka ou ni an bwa ? (Qu'est-ce que tu as au bras ?), Anbabwa (Aisselles), Tòti di : « Anbabwa a malfini ka pit » (« Ça pue sous les ailes du mansfenil » dit la tortue)",
@@ -8798,7 +8930,7 @@
   {
     "Mot": "BWA",
     "Traduction": "Expressions diverses",
-    "Exemples": "Bwadifé (Femme que fréquente un homme occasionnellement), I ni bwa-dèyè (Il a du répondant. / Il a de la réserve), Sé dèyè bwa kí ni bwa (Il y a de la réserve), Moun a bwa-dèyè (Personne puissante / qui a du piston / qui a des amis haut placés), Sakré bwa va! (Nom de Dieu !)",
+    "Exemples": "Bwadifé (Femme que fréquente un homme occasionnellement), I ni bwa-dèyè (Il a du répondant. / Il a de la réserve), Sé dèyè bwa kí ni bwa (Il y a de la réserve), Moun a bwa-dèyè (Personne puissante / qui a du piston / qui a des amis haut placés), Sakré bwa va! (Nom de Dieu !). Sé pété bwa (C'est très cher)",
     "Synonymes": "bèt"
   },
   {
@@ -8868,10 +9000,22 @@
     "Synonymes": "absòbé"
   },
   {
+    "Mot": "BWÈ É MANJÉ",
+    "Traduction": "Réception, banquet (à boire et manger)",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "BWÉ",
     "Traduction": "Bouée",
     "Exemples": "Pasé kon bwé (Passer sans regarder personne)",
     "Synonymes": "levé, digad"
+  },
+  {
+    "Mot": "BWÉSON",
+    "Traduction": "Boisson",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "BWÈT",
@@ -8908,6 +9052,12 @@
     "Traduction": "Entrailles de poissons",
     "Exemples": "-",
     "Synonymes": "bway"
+  },
+  {
+    "Mot": "BWÒS/BRÒS",
+    "Traduction": "Brosse",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "BYÈ",
@@ -8967,6 +9117,12 @@
     "Mot": "BYÒ !",
     "Traduction": "Onomatopée pour borborygme",
     "Exemples": "Vant anmwen ka fè byò ! (Mon ventre crie famine)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "BYOMÉTRIK",
+    "Traduction": "Biométrique",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -9696,6 +9852,12 @@
     "Synonymes": "mèt, mèt-a-mannyòk, mèt-a-lafè, patwon, mennè"
   },
   {
+    "Mot": "CHÈK",
+    "Traduction": "Chèque",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "CHÈL",
     "Traduction": "Station-service",
     "Exemples": "Ay adan chèl a Eso-la ban-mwen (Va me faire une course à la station-service Esso)",
@@ -9936,6 +10098,18 @@
     "Synonymes": "chigna, ankavé"
   },
   {
+    "Mot": "CHIMI",
+    "Traduction": "Chimie",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "CHIMIK",
+    "Traduction": "Chimique",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "CHIMIZ",
     "Traduction": "Chemise",
     "Exemples": "-",
@@ -10075,9 +10249,15 @@
   },
   {
     "Mot": "CHO",
+    "Traduction": "Cher, coûteux, onéreux",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "CHO",
     "Traduction": "Chaleur, exubérance",
     "Exemples": "-",
-    "Synonymes": "chale"
+    "Synonymes": "chalè"
   },
   {
     "Mot": "CHO",
@@ -10610,6 +10790,12 @@
   {
     "Mot": "CHWA !",
     "Traduction": "Onomatopée indiquant le bruit de la mer",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "CHWA",
+    "Traduction": "Choix",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -11778,6 +11964,12 @@
     "Synonymes": "éstenké, rizé, izé"
   },
   {
+    "Mot": "DÉKALBOSÉ",
+    "Traduction": "Débosseler",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "DÉKALÉ",
     "Traduction": "Casser les reins à quelqu'un",
     "Exemples": "A pa dékalé yo pa ka èché dékalé-y ! (On essaie de lui casser les reins par tous les moyens)",
@@ -12114,6 +12306,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "DÉKOUVÈ",
+    "Traduction": "Découvert (bancaire)",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "DÉKRASÉ",
     "Traduction": "Enlever la crasse, laver, nettoyer",
     "Exemples": "« Kokozyé dékrasé ? - Wòch galèt. » (« Globe oculaire bien nettoyé ? - Un galet. » (Devinette))",
@@ -12237,6 +12435,12 @@
     "Mot": "DÉMARÉ",
     "Traduction": "Détacher, rompre les amarres, libérer",
     "Exemples": "Pasi koté sizè, yo ka démaré bèf (Vers six heures on détache les bœufs)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "DÉMARÉ",
+    "Traduction": "Démarrer",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -12768,6 +12972,18 @@
     "Synonymes": "lachman, lavamòl, lavavit"
   },
   {
+    "Mot": "DÉRANJMAN",
+    "Traduction": "Dérangement",
+    "Exemples": "Èskizé déranjman-la (veuillez m'excusez)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "DÉRANJÉ",
+    "Traduction": "Déranger",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "DÈRANKONT",
     "Traduction": "D'occasion",
     "Exemples": "-",
@@ -13218,6 +13434,12 @@
     "Synonymes": "bizwen, kaka, kabiné"
   },
   {
+    "Mot": "DÉWOU",
+    "Traduction": "Deux roues, motocyclette, moto",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "DÈWVWÈ",
     "Traduction": "Dès que",
     "Exemples": "-",
@@ -13288,6 +13510,12 @@
     "Traduction": "Désagréments, ennuis, sales histoires",
     "Exemples": "Moun a dézagréman (Faiscur d'histoires)",
     "Synonymes": "bab, anmégdasyon, pwoblèm, kontrayété"
+  },
+  {
+    "Mot": "DÉZAGRÉMAN",
+    "Traduction": "Désespérant",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "DÉZANBWATÉ",
@@ -13422,6 +13650,12 @@
     "Synonymes": "anbyans, éksité, tigonné, bét, métfédàm"
   },
   {
+    "Mot": "DIFÉ (- SI-MWEN)",
+    "Traduction": "Être stressé (e), sous pression",
+    "Exemples": "I ni difé si-y (Il est stressé)",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "DIKS / DIS",
     "Traduction": "Disque",
     "Exemples": "Diks a-w réyé (Tu répètes toujours les mêmes choses / ton disque est rayé)",
@@ -13549,9 +13783,15 @@
   },
   {
     "Mot": "DIRÈKTÈMAN / DYÈKTÈMAN",
-    "Traduction": "Justement, exactement",
+    "Traduction": "Justement, exactement, précisément, au fait",
     "Exemples": "Sé dyèktèman jòdla ou bizwen sonné-y (C'est justement aujourd'hui que tu veux lui téléphoner)",
     "Synonymes": "menm"
+  },
+  {
+    "Mot": "DIRÈKTÈMAN / DYÈKTÈMAN",
+    "Traduction": "Directement",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "DIRI",
@@ -13612,6 +13852,12 @@
     "Traduction": "Action de disparaître, disparition",
     "Exemples": "Disparèt pran-y (Il a disparu)",
     "Synonymes": "bwa"
+  },
+  {
+    "Mot": "DISTRIBIYÉ",
+    "Traduction": "Distribuer, répartir",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "DITOUPA",
@@ -13732,6 +13978,12 @@
     "Traduction": "Double six au domino",
     "Exemples": "-",
     "Synonymes": "doubsis"
+  },
+  {
+    "Mot": "DOFEN",
+    "Traduction": "Dauphin",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "DÒKTÈ",
@@ -13896,6 +14148,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "DOSYÉ",
+    "Traduction": "Dossier",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "DÒT",
     "Traduction": "Devoir",
     "Exemples": "Ou dòt sav a pa annyen an ké sa fè ba-w (Tu dois savoir que je ne pourrai rien faire pour toi)",
@@ -14019,6 +14277,12 @@
     "Mot": "DOUBWA",
     "Traduction": "Postiche, factice",
     "Exemples": "Ka manké-y on zyé, sè on doubwa i ni (Il lui manque un œil, c'est un postiche (œil de verre) qu'il a)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "DOUCH",
+    "Traduction": "Douche",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -14706,6 +14970,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "ENFOWMATIK",
+    "Traduction": "Informatique",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "ENHEN",
     "Traduction": "Oui",
     "Exemples": "-",
@@ -14850,6 +15120,12 @@
     "Synonymes": "grangrèk"
   },
   {
+    "Mot": "ENSTRIMAN",
+    "Traduction": "Instrument",
+    "Exemples": "I chwazi on enstriman kon batri : Il a choisi un instrument comme la batterie",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "ENTÈL",
     "Traduction": "Machin, truc, bidule (personne) ",
     "Exemples": "Kriyé entèl ban-mwen : Appelle-moi machin.",
@@ -14860,6 +15136,12 @@
     "Traduction": " Untel",
     "Exemples": "An vwè entèl, i di i ké pasé koté-w : J'ai vu untel, il dit qu'il passera te voir.",
     "Synonymes": "biten, nòstròm, mètchòz"
+  },
+  {
+    "Mot": "ENTÈWNÈT",
+    "Traduction": "Internet",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "ENVANTÉ",
@@ -15048,6 +15330,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "ÈSKOUTÈ",
+    "Traduction": "Scooter",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "ÈSPANGNÒL / PANGNÒL",
     "Traduction": "Dominicaine de Saint-Domingue",
     "Exemples": "Onlo Èspangnol débakyé pa asi Chimen-nèf : Un grand nombre de Dominicaines se sont installées vers le Chemin-neuf.",
@@ -15078,13 +15366,13 @@
     "Synonymes": "sòt, jan, kalité"
   },
   {
-    "Mot": "ESPÉRÉ",
+    "Mot": "ÈSPÉRÉ",
     "Traduction": "Espérer",
     "Exemples": "An ka espéré i ké géri : J'espère qu'il guérira.",
     "Synonymes": "atann, espwa, kotté"
   },
   {
-    "Mot": "ESPÉRÉ",
+    "Mot": "ÈSPÉRÉ",
     "Traduction": "Attendre ",
     "Exemples": "Éspéré-mwen, an ka vin talè : Attends-moi, je reviens dans un instant.",
     "Synonymes": "atann, espwa, kotté"
@@ -15180,7 +15468,7 @@
     "Synonymes": "daplon, pòstal, istab"
   },
   {
-    "Mot": "ESTABA",
+    "Mot": "ÈSTABA",
     "Traduction": "Mort ",
     "Exemples": "-",
     "Synonymes": "akaba"
@@ -15190,6 +15478,18 @@
     "Traduction": "Stade ",
     "Exemples": "-",
     "Synonymes": "istad"
+  },
+  {
+    "Mot": "ÈSTAJ",
+    "Traduction": "Stage",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "ÈSTAJYÈ",
+    "Traduction": "Stagiaire",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "ÈSTATI",
@@ -17010,6 +17310,12 @@
     "Synonymes": "tikòd"
   },
   {
+    "Mot": "FISKAL",
+    "Traduction": "Fiscal (e)",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "FIT-É-FANN (ANT -)",
     "Traduction": "Être assis (le cul) entre deux chaises",
     "Exemples": "Ni onlo moun an politik yo ant fit-é-fann : Il y a beaucoup de gens en politique qui ont le cul entre deux chaises",
@@ -17047,8 +17353,8 @@
   },
   {
     "Mot": "FIZIK / NI FIZIK",
-    "Traduction": "Être en forme",
-    "Exemples": "-",
+    "Traduction": "Être en forme, sportif (ve)",
+    "Exemples": "Moun fizik: un sportif/une sportive",
     "Synonymes": "anfòm"
   },
   {
@@ -17598,8 +17904,26 @@
     "Synonymes": "pòtré"
   },
   {
+    "Mot": "FOTOKOPI",
+    "Traduction": "Photocopie",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "FOTOKOPYÈ",
+    "Traduction": "Photocopieur, photocopieuse",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "FOTÈY",
     "Traduction": "Fauteuil",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "FOU",
+    "Traduction": "Four",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -17794,6 +18118,18 @@
     "Traduction": "Fenêtre",
     "Exemples": "-",
     "Synonymes": "finèt"
+  },
+  {
+    "Mot": "FOUNI",
+    "Traduction": "Fournire, fourni, équipé, meublé",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "FOUNISÈ",
+    "Traduction": "Fournisseur, fournisseuse",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "FOUNITI",
@@ -18450,6 +18786,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "GADÉVWÈ / GAYVWÈ",
+    "Traduction": "Vérifier, contrôler",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "GADÈZAFÈ / GADÈDZAFÈ",
     "Traduction": "Devin, voyant, sorcier, féticheur, quimboiseur",
     "Exemples": "Pa gyè ni moun Gwadloup ki pòkò ay vwè on gadèzafè (Rares sont les gens en Guadeloupe qui n'ont pas encore consulté de sorcier)",
@@ -18824,7 +19166,7 @@
   {
     "Mot": "GAZ",
     "Traduction": "Gaz butane",
-    "Exemples": "-",
+    "Exemples": "Pran gaz (subir des peines, souffrir)",
     "Synonymes": "-"
   },
   {
@@ -19381,7 +19723,7 @@
   },
   {
     "Mot": "GONFLÉ",
-    "Traduction": "Enfler, être gonflé",
+    "Traduction": "Enfler, être gonflé, gonfler",
     "Exemples": "I la diri-la ka gonflé (Il est du côté du manche (il est là où le riz gonfle))",
     "Synonymes": "Anflé, Dirigonflis"
   },
@@ -19582,6 +19924,12 @@
     "Traduction": "Remuer, bouger, se remuer",
     "Exemples": "On kapitenn san gouyé (Un homme tranquille), Gouyé kò a-w (Bouge-toi, remue-toi)",
     "Synonymes": "Rimé, Soukwé, Dòwlan, Nofwap, Bann"
+  },
+  {
+    "Mot": "GOZYÉ",
+    "Traduction": "Gosier",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "GRA",
@@ -19810,6 +20158,12 @@
     "Traduction": "Océan, le large",
     "Exemples": "-",
     "Synonymes": "Andèwò"
+  },
+  {
+    "Mot": "GRANMAGASEN",
+    "Traduction": "Grande surface, hypermarché, supermarché",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "GRANMÈSI",
@@ -20041,7 +20395,7 @@
   },
   {
     "Mot": "GRÈS",
-    "Traduction": "Cellulite",
+    "Traduction": "Cellulite, cholestérol",
     "Exemples": "Pran grès (Grossir)",
     "Synonymes": "Gwo, Gwosi"
   },
@@ -20856,6 +21210,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "IDANTITÉ",
+    "Traduction": "Identité",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "IDÈMDITO",
     "Traduction": "De même",
     "Exemples": "Ou ka vin rédémwen, idemdito ba vou (Tu viens m'aider, toi aussi viens)",
@@ -20926,6 +21286,12 @@
     "Traduction": "Immature",
     "Exemples": "I inosan toujou, lèt ka sòti an né a-y (Il n'est pas encore mûr)",
     "Synonymes": "mi"
+  },
+  {
+    "Mot": "INTÈWDI",
+    "Traduction": "Interdit",
+    "Exemples": "Sans-intèwdi : sens-interdit",
+    "Synonymes": "-"
   },
   {
     "Mot": "IRÉ",
@@ -21162,6 +21528,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "JANBON",
+    "Traduction": "Jambon",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "JANDAB / JANDÀM",
     "Traduction": "Gendarme",
     "Exemples": "Hotè on bòt a jandab (Haut comme trois pommes), Misyé léjandàm ! (Mon vieux !), Jandab dèyè do a-w (Tu as la robe prise dans la raie des fesses)",
@@ -21270,6 +21642,12 @@
     "Synonymes": "bobo, bobo-santan"
   },
   {
+    "Mot": "JAVÈL",
+    "Traduction": "Eau de Javel",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "JAZ",
     "Traduction": "Jazz",
     "Exemples": "Janm a-y fin kon bagèt a jaz (Elle a des jambes fluettes)",
@@ -21285,6 +21663,12 @@
     "Mot": "JÉ",
     "Traduction": "Farce, plaisanterie, moquerie,",
     "Exemples": "Ni on jé ou ka fè, i pa'a fè-mwen plèzi (Je n'aime pas certaines de tes plaisanteries), Ou ka fè jé (Tu exagères), Pa fè jé ! (Ce n'est pas le moment de plaisanter), Fè jé (Ridiculiser, se moquer de), Pwan jé (Accepter les plaisanteries), Vyé jé (Mauvaise plaisanterie), Anjé (Pour plaisanter, pour rire), Sanjé (Sans rire, sérieusement), Kyenn-li jé (Tiens-le en haleine), Jé danfan (Jouer au papa et à la maman), A pa jé (Ce n'est pas une petite affaire)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "JÉ (-VIDÉO)",
+    "Traduction": "Jeu vidéo",
+    "Exemples": "Jé vidéo an lign (jeu vidéo en ligne)",
     "Synonymes": "-"
   },
   {
@@ -21451,7 +21835,7 @@
   },
   {
     "Mot": "JÉRÈ",
-    "Traduction": "Contremaître, géreur",
+    "Traduction": "Contremaître, géreur, gérant",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -21774,10 +22158,22 @@
     "Synonymes": "dyèktèman"
   },
   {
+    "Mot": "JISTIFIKATIF",
+    "Traduction": "Justificatif",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "JISTIS",
     "Traduction": "Justice",
     "Exemples": "-",
     "Synonymes": "lajistis"
+  },
+  {
+    "Mot": "JIT",
+    "Traduction": "Gîte",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "JÒDI / JÒDIJOU / JÒDILA",
@@ -22032,6 +22428,12 @@
     "Synonymes": "touvé, trapé"
   },
   {
+    "Mot": "JWENTI",
+    "Traduction": "Jointure, articulation",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "JWÈT",
     "Traduction": "Risée, jouet de",
     "Exemples": "-",
@@ -22158,6 +22560,12 @@
     "Synonymes": "kadliv"
   },
   {
+    "Mot": "K'ALÉ ÉPI",
+    "Traduction": "Assorti, qui va avec",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KAB",
     "Traduction": "Nouvelles, nouvelles fraîches",
     "Exemples": " - ",
@@ -22216,6 +22624,12 @@
     "Traduction": "Coup porté sur la tête avec les articulations du poing",
     "Exemples": " - ",
     "Synonymes": "tòbòk"
+  },
+  {
+    "Mot": "KABIN",
+    "Traduction": "Cabine",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "KABINÉ",
@@ -22509,6 +22923,12 @@
     "Mot": "KADFÀM/KADFANM",
     "Traduction": "Bicyclette pour femme",
     "Exemples": " - ",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "KADI",
+    "Traduction": "Caddie, charriot",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -23640,6 +24060,12 @@
     "Synonymes": "kabrès"
   },
   {
+    "Mot": "KAPASITÉ",
+    "Traduction": "Capacité",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KAPILOTAD/KAPILAD",
     "Traduction": "Marmelade",
     "Exemples": "Tout machandiz-la fè onsèl kapilotad : Toute la marchandise était en marmelade",
@@ -23994,6 +24420,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "KASKAD",
+    "Traduction": "Cascade",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KASKÒD",
     "Traduction": "Se rompre",
     "Exemples": " - ",
@@ -24156,6 +24588,12 @@
     "Synonymes": "bétiz"
   },
   {
+    "Mot": "KATKAT",
+    "Traduction": "4x4, véhicule tout terrain",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KATON",
     "Traduction": "Carton",
     "Exemples": " - ",
@@ -24264,10 +24702,28 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "KAWTYÉ",
+    "Traduction": "Quartier, zone",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KAY/ (KA AY)",
     "Traduction": "Aller",
     "Exemples": "Sa kay ? : Est-ce que ça va ?, Kijan ou kay ? : Comment vas-tu ?/Par quel moyen y vas-tu ?, És sa kay épi-mwen ? : Est-ce que cela me va ?, Sa kay èvè-w ? : Ça te va ?, Yo kay ansanm : Ils vont bien ensemble./Ils y vont ensemble, Sa kay byen malman : Ça va très mal",
     "Synonymes": "kalé"
+  },
+  {
+    "Mot": "KAY",
+    "Traduction": "Marqueur pour futur proche",
+    "Exemples": "I kay ouvè (Il va ouvrir)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "KAY (- NI POU)",
+    "Traduction": "Marqueur pour exprimer l'obligation dans un futur proche",
+    "Exemples": "An kay ni pou fè-w on bon pri : Je vais devoir te faire un bon prix",
+    "Synonymes": "-"
   },
   {
     "Mot": "KAY",
@@ -24438,15 +24894,15 @@
     "Synonymes": "koraj"
   },
   {
-    "Mot": "KÈCHÒY/KÈCHÒZ",
+    "Mot": "KÈCHÒY/KÈKCHÒZ",
     "Traduction": "Quelque chose, truc, machin",
     "Exemples": " - ",
     "Synonymes": "-"
   },
   {
-    "Mot": "KÈCHÒY/KÈCHÒZ",
+    "Mot": "KÈCHÒY/KÈKCHÒZ",
     "Traduction": "Un petit peu de quelque chose (argent, nourriture, alcool)",
-    "Exemples": "Ban-mwen on kèchòz : Donne-moi un petit quelque chose (argent, rhum, nourriture...)",
+    "Exemples": "Ban-mwen on kèkchòz : Donne-moi un petit quelque chose (argent, rhum, nourriture...)",
     "Synonymes": "-"
   },
   {
@@ -24524,7 +24980,7 @@
   {
     "Mot": "KENBÉ/KYENBÉ",
     "Traduction": "Prendre, tenir, attraper, saisir",
-    "Exemples": "Kyenbé kyè/Kyenbé lapozisyon/Kyenbé rèd/Kyenbé fò : Tenir bon/tenir le coup, Kyenbédoubout : Tenir debout, Rèd a-y pa ka kyenbé : Son érection ne dure pas, Yo ké kyenbé-w : Tu vas te faire attraper, On kyenbé kyè : Un en-cas, un casse-croûte, Ou ban-mwen kyenbé on wòch : Tu m'as posé un lapin./Tu m'as fait faire le pied de grue",
+    "Exemples": "Kyenbé kyè/Kyenbé lapozisyon/Kyenbé rèd/Kyenbé fò : Tenir bon/tenir le coup, Kyenbédoubout : Tenir debout, Rèd a-y pa ka kyenbé : Son érection ne dure pas, Yo ké kyenbé-w : Tu vas te faire attraper, On kyenbé kyè : Un en-cas, un casse-croûte, Ou ban-mwen kyenbé on wòch : Tu m'as posé un lapin./Tu m'as fait faire le pied de grue. Kenbé on pozisyon : maintenir, se maintenir.",
     "Synonymes": "kenn, tyenn, trapé, pongné, penglé"
   },
   {
@@ -24556,6 +25012,12 @@
     "Traduction": "Se conserver",
     "Exemples": "Konfiti a koko pa ka kyenbé lontan : la confiture de coco ne se conserve pas longtemps",
     "Synonymes": "konsèvé"
+  },
+  {
+    "Mot": "KENBÉ/KYENBÉ",
+    "Traduction": "Réserver",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "KENBÉ/KYENBÉ",
@@ -24744,6 +25206,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "KÈTCHOP",
+    "Traduction": "Ketchup",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KÉWOUJ/KYÉWOUJ",
     "Traduction": "Écrevisse à queue rouge",
     "Exemples": " - ",
@@ -24928,6 +25396,18 @@
     "Traduction": "Pantalon, culotte, slip",
     "Exemples": "Ou pa nonm an kilòt a-w : Tu n'es pas un homme, Kilòt a-w ka fè kouwa : Ta culotte te passe dans la raie des fesses, I grenné. Pou i désou pasé on kilòt sal a fanm an figi a-y : Il est complètement saoul. Pour le dessaouler, passe-lui le slip sale d'une femme sur le visage",
     "Synonymes": "pantalon, slip, sispanswa"
+  },
+  {
+    "Mot": "KILTI",
+    "Traduction": "Culture",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "KILTIRÈL",
+    "Traduction": "Culturel",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "KILTIVATÈ",
@@ -25311,6 +25791,12 @@
     "Mot": "KLINIK",
     "Traduction": "Clinique",
     "Exemples": " - ",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "KLIYAN",
+    "Traduction": "Client",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -26166,6 +26652,12 @@
     "Synonymes": "zanmi"
   },
   {
+    "Mot": "KOLÈJ",
+    "Traduction": "Collège",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KOLÉ-JIMÈL",
     "Traduction": "Fruits jumeaux qu'on trouve dans la même enveloppe (amandes, oranges, bananes, châtaignes, malacas, noix de cajou)",
     "Exemples": " - ",
@@ -26187,6 +26679,12 @@
     "Mot": "KOLÉ-ZASYÈT",
     "Traduction": "Avoir des relations homosexuelles entre femmes",
     "Exemples": " - ",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "KOLI",
+    "Traduction": "Colis",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -26508,6 +27006,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "KONÈKTÉ",
+    "Traduction": "Connecter, connecté",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KONÉSANS",
     "Traduction": "Connaissance",
     "Exemples": "Fè konésans (Faire connaissance), Pèd konésans (S'évanouir)",
@@ -26688,10 +27192,22 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "KONMAND",
+    "Traduction": "Commande",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KONMÉDI/KOMÉDI",
     "Traduction": "Affaire louche",
     "Exemples": "-",
     "Synonymes": "Konmès"
+  },
+  {
+    "Mot": "KONMÈS/KOMÈS",
+    "Traduction": "Commerce",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "KONMÈS/KOMÈS",
@@ -26719,7 +27235,7 @@
   },
   {
     "Mot": "KONMISYON",
-    "Traduction": "Emplettes, courses",
+    "Traduction": "Emplettes, courses, achats",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -26782,6 +27298,12 @@
     "Traduction": "Complet (vêtement)",
     "Exemples": "-",
     "Synonymes": "Kòsko"
+  },
+  {
+    "Mot": "KONPLÈT",
+    "Traduction": "Complet",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "KONPLÉTO-KONPLÉTO",
@@ -26970,6 +27492,24 @@
     "Synonymes": "Konkidiré"
   },
   {
+    "Mot": "KONSIN",
+    "Traduction": "Consigne",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "KONSÒ / É TOUT LARÈS",
+    "Traduction": "Consorts/tout ce qui va avec, etc.",
+    "Exemples": "Yo pé manjé kako, kafé, bannann é konsò (Ils peuvent manger du cacao, du café, de la banane etc.)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "KONSÒL",
+    "Traduction": "Console",
+    "Exemples": "I ka jwé konsòl aswè-la (Il joue à la console le soir)",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KONSOMÉ/KONSONMÉ",
     "Traduction": "Laisser mijoter, faire réduire à petit feu",
     "Exemples": "Apré pwa-la krévé, lésé-y konsonmé (Après que les pois ont crevé, il faut les laisser mijoter)",
@@ -27018,6 +27558,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "KONTA",
+    "Traduction": "Comptabilité",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KONTAMINÉ",
     "Traduction": "Contagieux",
     "Exemples": "Maladi kontaminé (Maladie contagieuse)",
@@ -27046,6 +27592,12 @@
     "Traduction": "Aimer",
     "Exemples": "An kontan-w, tann ! (Je t'aime, tu sais !)",
     "Synonymes": "Anmé"
+  },
+  {
+    "Mot": "KONTANTÉ",
+    "Traduction": "Satisfaire, contenter",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "KONTÈ",
@@ -27148,6 +27700,12 @@
     "Traduction": "Pubis, mont de Vénus",
     "Exemples": "Manman-mwen ban mwen on bèl kontwa (Ma mère m'a doté d'un mont de Vénus rebondi)",
     "Synonymes": "Tab"
+  },
+  {
+    "Mot": "KONTWÒL",
+    "Traduction": "Contrôle, maîtrise",
+    "Exemples": "An ké di sanfwa é kontwòl (Je dirai du sang froid et de la maîtise de soi)",
+    "Synonymes": "-"
   },
   {
     "Mot": "KONVÈSYON (LÉVÉ -)",
@@ -27445,14 +28003,14 @@
   },
   {
     "Mot": "KOTON/PYÉ-KOTON",
-    "Traduction": "Cotonnier",
+    "Traduction": "Cotonnier, coton",
     "Exemples": "-",
     "Synonymes": "-"
   },
   {
     "Mot": "KOU/KOUD/KOUL/KOUT",
     "Traduction": "Coup, volée, raclée",
-    "Exemples": "An konsa yo ban-mwen kou tout lannuit (Je suis moulu comme si on m'avait frappé toute la nuit), Kou-pou-kou (Œil pour œil), Mwen, sé kou-pou-kou (Pour moi, c'est œil pour œil, dent pour dent)",
+    "Exemples": "An konsa yo ban-mwen kou tout lannuit (Je suis moulu comme si on m'avait frappé toute la nuit), Kou-pou-kou (Œil pour œil), Mwen, sé kou-pou-kou (Pour moi, c'est œil pour œil, dent pour dent), On koul chalè (une insolation)",
     "Synonymes": "Ben"
   },
   {
@@ -28992,6 +29550,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "KWAZYÈ",
+    "Traduction": "Croisière",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "KWÈ",
     "Traduction": "Croire, penser, avoir l'impression",
     "Exemples": "-",
@@ -29496,6 +30060,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "LADANS",
+    "Traduction": "Dance",
+    "Exemples": "I enmé ladans (Il aime la dance)",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "LABANK",
     "Traduction": "Banque",
     "Exemples": "-",
@@ -29726,6 +30296,12 @@
   {
     "Mot": "LADYABLÈS/LAGYABLÈS",
     "Traduction": "La diablesse (personnage mythique représenté par une femme de race blanche aux longs cheveux, ayant un pied d'âne et un pied de cheval : cette femme, dit-on, pourrait être la femme d'un maître-blanc, telle que la voyaient les esclaves)",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "LAÉWOPÒ",
+    "Traduction": "Aéroport",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -30678,6 +31254,12 @@
     "Synonymes": "lanpwa"
   },
   {
+    "Mot": "LÀNMINISTRASYON",
+    "Traduction": "Administration",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "LANMITYÉ",
     "Traduction": "Amitié",
     "Exemples": "Woy ! lanmityé bèl ! (Que c'est beau l'amitié !)",
@@ -30960,6 +31542,12 @@
     "Synonymes": "moun-bò-kaz"
   },
   {
+    "Mot": "LANTRÉ",
+    "Traduction": "Entrée",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "LANVÈ",
     "Traduction": "Envers (par opposition à l'endroit)",
     "Exemples": "-",
@@ -31182,6 +31770,12 @@
     "Synonymes": "kyè"
   },
   {
+    "Mot": "LAPRÉFÈKTI",
+    "Traduction": "Préfecture",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "LAPRÉMIDI",
     "Traduction": "Après-midi",
     "Exemples": "-",
@@ -31264,6 +31858,12 @@
     "Traduction": "Fesses",
     "Exemples": "-",
     "Synonymes": "bonda"
+  },
+  {
+    "Mot": "LARÉJYON",
+    "Traduction": "Région",
+    "Exemples": "Laréjyon Gwadloup (La Région Guadeloupe)",
+    "Synonymes": "-"
   },
   {
     "Mot": "LARÉKÒT",
@@ -32076,6 +32676,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "LENFINI",
+    "Traduction": "Infini (e), infinité",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "LENFLANMASYON",
     "Traduction": "Inflammation, fièvre : pathologie complexe qui se soigne par des plantes pour « rafraîchir »",
     "Exemples": "Konkonm bon pou lenflanmasyon, i ka rafréchi (Le concombre est recommandé pour l'inflammation, c'est un légume rafraîchissant)",
@@ -32268,6 +32874,12 @@
     "Synonymes": "séla,tousa,sa"
   },
   {
+    "Mot": "LÉSIV",
+    "Traduction": "Lessive",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "LÉSIVÉ",
     "Traduction": "Laver",
     "Exemples": "-",
@@ -32443,7 +33055,7 @@
   },
   {
     "Mot": "LÉTI",
-    "Traduction": "Laitue",
+    "Traduction": "Laitue, salade verte",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -32707,6 +33319,12 @@
   },
   {
     "Mot": "LIGN",
+    "Traduction": "Ligne (internet)",
+    "Exemples": "Mwen péyé an lign (J'ai payé en ligne)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "LIGN",
     "Traduction": "Trait à la règle, ligne droite",
     "Exemples": "-",
     "Synonymes": "rèl,tirèl"
@@ -32728,6 +33346,12 @@
     "Traduction": "Jeu de billes",
     "Exemples": "-",
     "Synonymes": "ika"
+  },
+  {
+    "Mot": "LILÈT",
+    "Traduction": "Île",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "LILÈT",
@@ -32840,6 +33464,12 @@
   {
     "Mot": "LINÈT",
     "Traduction": "Lunettes",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "LINIVÈ",
+    "Traduction": "Univers",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -33636,6 +34266,12 @@
     "Synonymes": "lalwa"
   },
   {
+    "Mot": "LWÉ",
+    "Traduction": "Louer",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "LWEN",
     "Traduction": "Loin, lointain, éloigné, isolé (pour un lieu)",
     "Exemples": "-",
@@ -33896,7 +34532,7 @@
   {
     "Mot": "MACHIN",
     "Traduction": "Machine",
-    "Exemples": "Alamachin-tranndé (La bouche - la machine qui a 32 dents), I ka koud alamachin (Elle coud à la machine)",
+    "Exemples": "Alamachin-tranndé (La bouche - la machine qui a 32 dents), I ka koud alamachin (Elle coud à la machine). Machin a lavé lenj (lave-linge). Machin a lavé vésèl (lave-vaisselle)",
     "Synonymes": "-"
   },
   {
@@ -34518,10 +35154,16 @@
     "Synonymes": "anmizè"
   },
   {
-    "Mot": "MALÉRÈZ-SÒ",
-    "Traduction": "Pauvreté, misère",
+    "Mot": "MALÉRÈZSÒ",
+    "Traduction": "Pauvreté, misère, malheureusement",
     "Exemples": "-",
     "Synonymes": "lanmizè"
+  },
+  {
+    "Mot": "MALÉRÈZMAN",
+    "Traduction": "Malheureusement",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "MALÈT",
@@ -35292,6 +35934,12 @@
     "Synonymes": "baraj"
   },
   {
+    "Mot": "MARAKOUDJA",
+    "Traduction": "Fruit de la passion",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "MARCHÉ/MAWCHÉ",
     "Traduction": "Marché",
     "Exemples": "-",
@@ -35380,6 +36028,12 @@
     "Traduction": "Ancré",
     "Exemples": "-",
     "Synonymes": "ankré"
+  },
+  {
+    "Mot": "MARÈL",
+    "Traduction": "Marelle (jeu)",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "MARÈZ",
@@ -35802,6 +36456,12 @@
     "Synonymes": "jola, tafya"
   },
   {
+    "Mot": "MAYO",
+    "Traduction": "Mayonnaise",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "MAYOLÈ",
     "Traduction": "Danseur au bâton : mayoleur",
     "Exemples": "Sé moun té ka goumé èvè baton té ka fè lasanblan dansé (Personnes qui se battaient avec des bâtons tout en faisant semblant de danser), An tan lontan fèt Lansbètran té ka toujou ni mayolè (Il fut un temps à l'Anse-Bertrand où les mayoleurs participaient toujours aux fêtes)",
@@ -36013,7 +36673,7 @@
   },
   {
     "Mot": "MÉLÉ",
-    "Traduction": "Embarrasser, gêner, entraver, handicaper",
+    "Traduction": "Embarrasser, gêner, entraver, handicaper, avoir un dilemme",
     "Exemples": "-",
     "Synonymes": "maré"
   },
@@ -36073,13 +36733,13 @@
   },
   {
     "Mot": "MÉNÉ/MENNÉ (-VINI)",
-    "Traduction": "Amener",
+    "Traduction": "Amener, apporter",
     "Exemples": "-",
     "Synonymes": "-"
   },
   {
     "Mot": "MÉNÉ/MENNÉ (-ALÉ)",
-    "Traduction": "Emmener",
+    "Traduction": "Emmener, emporter",
     "Exemples": "-",
     "Synonymes": "chayé"
   },
@@ -36210,6 +36870,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "MÉRITÉ",
+    "Traduction": "Mériter, mérité",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "MÈRKÈR/MÈRKÈW",
     "Traduction": "Herbe sauvage fléchant comme la canne et qui sert de nourriture aux bovins",
     "Exemples": "-",
@@ -36268,6 +36934,12 @@
     "Traduction": "Mettre",
     "Exemples": "Fo mèt on milyé adan sa (Il faut éclaircir cette affaire/Il faut intervenir dans cette affaire), Mèt a koté (Écarter), Mèté-mwen atè (Fiche-moi la paix), Mèt ansenn (Se moquer de), Mèt pyé anba tab (Manger), Mèt-atè (Accoucher, Pulluler), Mètpou/Mété pou (Décider de), An ja mété pou ay vwè métrès-dékòl a-w (J'ai déjà décidé d'aller voir ton institutrice), An pa ni boutèy an ka mèt si tab (Je n'ai pas de mari)",
     "Synonymes": "voyé, alé, pousé, séparé, dépozé, fè jè, manjé, lanbané, mètba, chyen"
+  },
+  {
+    "Mot": "MÈT (-SI PYÉ)",
+    "Traduction": "Concevoir, construire, programmer (mettre sur pied)",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "MÈT/MÈT-DÉKÒL/MÈT-LÉKÒL",
@@ -36504,6 +37176,12 @@
     "Synonymes": "chyen"
   },
   {
+    "Mot": "MIKWO-OND",
+    "Traduction": "Micro-ondes",
+    "Exemples": "Fou mikwo-ond: four micro-ondes",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "MILAT/MILATRÈS",
     "Traduction": "Mulâtre, mulâtresse",
     "Exemples": "-",
@@ -36709,6 +37387,12 @@
   },
   {
     "Mot": "MIZÉ",
+    "Traduction": "Musée",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "MIZÉ",
     "Traduction": "Miser",
     "Exemples": "-",
     "Synonymes": "péyé"
@@ -36897,6 +37581,12 @@
     "Mot": "MÒDÉ",
     "Traduction": "Morsure",
     "Exemples": "Pwèl a chyen ka gyéri mòdè a chyen (On guérit le mal par le mal)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "MODÈL",
+    "Traduction": "Modèle",
+    "Exemples": "Dènyé modèl : dernier modèle, dernière génération",
     "Synonymes": "-"
   },
   {
@@ -37306,6 +37996,12 @@
     "Traduction": "Montée",
     "Exemples": "-",
     "Synonymes": "mòn"
+  },
+  {
+    "Mot": "MONTÉ-DÉSANN",
+    "Traduction": "Circuler",
+    "Exemples": "",
+    "Synonymes": ""
   },
   {
     "Mot": "MONTÉ-DÉSANN",
@@ -37783,6 +38479,12 @@
   },
   {
     "Mot": "MOUN",
+    "Traduction": "Moun-apyé (piéton)",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "MOUN",
     "Traduction": "Pote, zigue, copain",
     "Exemples": "-",
     "Synonymes": "bonmoun"
@@ -37836,6 +38538,12 @@
     "Synonymes": "maengwen"
   },
   {
+    "Mot": "MOUTAWD",
+    "Traduction": "Moutarde",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "MOUTON",
     "Traduction": "Mouton",
     "Exemples": "-",
@@ -37858,6 +38566,12 @@
     "Traduction": "Activité",
     "Exemples": "-",
     "Synonymes": "mannèv"
+  },
+  {
+    "Mot": "MOUVMAN",
+    "Traduction": "Association",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "MOUVMAN",
@@ -37994,7 +38708,7 @@
   {
     "Mot": "MWEN",
     "Traduction": "Moi (complément), moi, je (sujet)",
-    "Exemples": "Lagyé-mwen (Lâchez-moi), Mwen alé (Je m'en vais)",
+    "Exemples": "Lagyé-mwen (Lâchez-moi), Mwen alé (Je m'en vais), Mwen i vou (à votre place)",
     "Synonymes": "an"
   },
   {
@@ -38262,6 +38976,12 @@
     "Synonymes": "babyé"
   },
   {
+    "Mot": "NÉGOSYÉ",
+    "Traduction": "Négocier",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "NÈGRÈS",
     "Traduction": "Négresse, femme, chère amie",
     "Exemples": "Ka ou fè, nègrès? (Comment vas-tu, femme ?), Sa sé nègrès an-mwen (C'est mon amie), Sé on vyé négrès (C'est de la mauvaise graine/C'est une tête de mule), Tété nègrès (Plante - sein de négresse)",
@@ -38490,6 +39210,12 @@
     "Synonymes": "anni"
   },
   {
+    "Mot": "NIKLÉYÈ",
+    "Traduction": "Nucléaire",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "NILON",
     "Traduction": "Nylon",
     "Exemples": "-",
@@ -38528,6 +39254,12 @@
   {
     "Mot": "NIVÉ",
     "Traduction": "Neveu",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "NIVO",
+    "Traduction": "Niveau",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -38724,7 +39456,7 @@
     "Synonymes": "fré"
   },
   {
-    "Mot": "NOVO",
+    "Mot": "NOUVO",
     "Traduction": "Nouveau, nouvelle",
     "Exemples": "Nouvo tifila i rivé la, aki-y? (Qui est cette nouvelle venue ?)",
     "Synonymes": "fré"
@@ -38836,6 +39568,18 @@
     "Traduction": "Nouvelle, information, anecdote",
     "Exemples": "-",
     "Synonymes": "fré"
+  },
+  {
+    "Mot": "O",
+    "Traduction": "Où (diminutif de \"\"Otila\"\")",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "OBEN/OUBEN",
+    "Traduction": "Ou bien, ou alors",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "OBLANCHI",
@@ -38995,7 +39739,7 @@
   },
   {
     "Mot": "OJIS",
-    "Traduction": "Au juste",
+    "Traduction": "Au juste, précisément, exactement",
     "Exemples": "Kilès ojis ou vlé? : Lequel tu veux au juste ?",
     "Synonymes": "-"
   },
@@ -39016,6 +39760,12 @@
     "Traduction": "Oculiste",
     "Exemples": "-",
     "Synonymes": "dòktè-a-zyé"
+  },
+  {
+    "Mot": "OKIPASYON",
+    "Traduction": "Activité, occupation",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "OKIPASYON",
@@ -39051,6 +39801,12 @@
     "Mot": "OKONTRÈ",
     "Traduction": "Au contraire",
     "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "OKOURAN",
+    "Traduction": "Être informé, au courant",
+    "Exemples": "Pa okouran : ignorer, ne pas être informé",
     "Synonymes": "-"
   },
   {
@@ -39864,6 +40620,12 @@
     "Synonymes": "hat"
   },
   {
+    "Mot": "PAK",
+    "Traduction": "Pâques",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "PAK-A-KOCHON",
     "Traduction": "Porcherie",
     "Exemples": "A pa on kaz ankò, sé on pak a kochon (Ce n'est plus une maison mais une porcherie)",
@@ -40111,7 +40873,7 @@
   },
   {
     "Mot": "PANNAN",
-    "Traduction": "Pendant que, alors que, au même moment",
+    "Traduction": "Pendant, pendant que, alors que, au même moment",
     "Exemples": "-",
     "Synonymes": "atoupannan, ansann"
   },
@@ -40126,6 +40888,18 @@
     "Traduction": "Tandis que, alors que, cependant, en attendant",
     "Exemples": "-",
     "Synonymes": "annatannan"
+  },
+  {
+    "Mot": "PANNKÒT",
+    "Traduction": "Pentecôte",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "PANNO",
+    "Traduction": "Panneau",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "PANNYÉ/PANGNÉ",
@@ -40206,6 +40980,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "PAPLIS",
+    "Traduction": "Pas plus, rien de plus",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "PAPOSIB",
     "Traduction": "Variété d'igname",
     "Exemples": "-",
@@ -40261,7 +41041,7 @@
   },
   {
     "Mot": "PARAPÒT",
-    "Traduction": "Compte tenu, à cause de",
+    "Traduction": "Compte tenu, à cause de, en fonction",
     "Exemples": "Parapòt a lapli ka tonbé, an ja vwè ponmlé annou-la ka bwè luil (Je vois d'avance que notre promenade est compromise à cause de la pluie)",
     "Synonymes": "-"
   },
@@ -40426,6 +41206,12 @@
     "Traduction": "Passe, feinte",
     "Exemples": "An ba-y on pas kaka (Je l'ai feinté à mort)",
     "Synonymes": "katou, maskò"
+  },
+  {
+    "Mot": "PASAJ",
+    "Traduction": "Billet, passage",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "PASAJÉ",
@@ -41922,6 +42708,12 @@
     "Synonymes": "pito, simétan, simyé, vométan, préférab"
   },
   {
+    "Mot": "PISIN",
+    "Traduction": "Piscine",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "PISPIRITI",
     "Traduction": "Doucereuse, sainte-nitouche, faux dévot",
     "Exemples": "-",
@@ -42840,6 +43632,18 @@
     "Synonymes": "kokangnè"
   },
   {
+    "Mot": "PODUI",
+    "Traduction": "Produit, produire",
+    "Exemples": "Podui chimik (produit chimique)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "POGRAM/PWOGRAM",
+    "Traduction": "Programme",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "PÒK",
     "Traduction": "Paralysé de la main",
     "Exemples": "I ni dé men pòk (Il est maladroit/Il ne sait rien faire de ses dix doigts), Dé men a-y pa pòk (Il sait se servir de ses mains/Il n'est pas manchot)",
@@ -43170,6 +43974,12 @@
     "Synonymes": "estab"
   },
   {
+    "Mot": "PÒSTAL",
+    "Traduction": "Postal (e)",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "PÒT",
     "Traduction": "Porte",
     "Exemples": "Douvan pòt (Seuil), Pòt/pòt-sòti (Issue), San pòt dèyè (Pour être franc)",
@@ -43436,7 +44246,7 @@
   {
     "Mot": "POUKI ?/POUKISA?",
     "Traduction": "Pourquoi ?",
-    "Exemples": "Pouki ou pa ka ba-y on ti dousin? (Pourquoi ne la cajoles-tu pas un peu ?)",
+    "Exemples": "Pouki ou pa ka ba-y on ti dousin? (Pourquoi ne la cajoles-tu pas un peu ?). Pouki pa (Pourquoi pas)",
     "Synonymes": "-"
   },
   {
@@ -43656,6 +44466,12 @@
     "Synonymes": "asiré, anvré"
   },
   {
+    "Mot": "PÒWTAB",
+    "Traduction": "Portable",
+    "Exemples": "Téléfòn pòwtab (téléphone portable). Òrdinatè pòwtab (ordinateur portable)",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "POY!",
     "Traduction": "Onomatopée traduisant l'admiration ou l'énervement",
     "Exemples": "-",
@@ -43854,8 +44670,14 @@
     "Synonymes": "prèprèm, dabò, dèvan"
   },
   {
+    "Mot": "PRENSIPAL",
+    "Traduction": "Principal (e)",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "PRENSIPALMAN",
-    "Traduction": "Surtout",
+    "Traduction": "Surtout, principalement",
     "Exemples": "-",
     "Synonymes": "piplis"
   },
@@ -43951,7 +44773,7 @@
   },
   {
     "Mot": "PRÉVWA",
-    "Traduction": "Prévoir, voir",
+    "Traduction": "Prévoir, voir, anticiper",
     "Exemples": "-",
     "Synonymes": "piròg"
   },
@@ -43959,6 +44781,12 @@
     "Mot": "PRÉVWA",
     "Traduction": "Effectuer une démarche",
     "Exemples": "An kay prévwa pou lo-kasyon-la, lasékirité (Je vais effectuer une démarche à la Sécurité Sociale pour les allocations)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "PRÉZANTÉ",
+    "Traduction": "Présenter",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -44002,6 +44830,12 @@
     "Traduction": "Être embobiné",
     "Exemples": "Yo priw (On t'a eu/Tu t'es fait avoir)",
     "Synonymes": "anblouzé"
+  },
+  {
+    "Mot": "PRIM",
+    "Traduction": "Prime",
+    "Exemples": "On prim a tranpò (une prime de transport)",
+    "Synonymes": "-"
   },
   {
     "Mot": "PRIN",
@@ -44250,6 +45084,12 @@
     "Synonymes": "kiki"
   },
   {
+    "Mot": "PWASONNRI",
+    "Traduction": "Poissonnerie",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "PWATRINÈ",
     "Traduction": "Poitrinaire, tuberculeux",
     "Exemples": "-",
@@ -44366,6 +45206,12 @@
   {
     "Mot": "PWONMLÉ (VOYÉ -)",
     "Traduction": "Envoyer balader, envoyer promener, rembarrer",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "PWOPOZISYON",
+    "Traduction": "Proposition",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -44748,6 +45594,12 @@
     "Synonymes": "ren"
   },
   {
+    "Mot": "RANDÉVOU",
+    "Traduction": "Rendez-vous",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "RANDUI",
     "Traduction": "Enduire, faire l'enduit",
     "Exemples": "-",
@@ -44768,7 +45620,7 @@
   {
     "Mot": "RANJÉ",
     "Traduction": "Arranger, s'améliorer, s'arranger, régler, réparer, faire des soins dentaires",
-    "Exemples": "Fò nou ranjé zafè-lasa (Il nous faut régler cette affaire), Yo ranjé kò a-y (On lui a jeté un sort), Yo ranjé (Ils se sont améliorés. Ils se sont rangés), An ké ranjé kò a-w (Je vais m'occuper de toi. / Je vais te mater), Ranjé kò a-w (Débrouille-toi), I ka ranjé masoun-la (Il répare le mur), Ay ranjé dan a-w (Va te faire soigner les dents)",
+    "Exemples": "Fò nou ranjé zafè-lasa (Il nous faut régler cette affaire), Yo ranjé kò a-y (On lui a jeté un sort), Yo ranjé (Ils se sont améliorés. Ils se sont rangés), An ké ranjé kò a-w (Je vais m'occuper de toi. / Je vais te mater), Ranjé kò a-w (Débrouille-toi/Prendre ses dispositions), I ka ranjé masoun-la (Il répare le mur), Ay ranjé dan a-w (Va te faire soigner les dents)",
     "Synonymes": "répare"
   },
   {
@@ -44839,7 +45691,7 @@
   },
   {
     "Mot": "RANMASÉ",
-    "Traduction": "Ramasser",
+    "Traduction": "Ramasser, récupérer",
     "Exemples": "O zò ka ranmasé? (Mais d'où te-nez-vous ce que vous dites (ou faites) ?), An ka lésé-w tonbé pou lavwari ranmasé-w (Je te mets à la poubelle)",
     "Synonymes": "pra,"
   },
@@ -44944,6 +45796,12 @@
     "Traduction": "Rance",
     "Exemples": "-",
     "Synonymes": "touné"
+  },
+  {
+    "Mot": "RANSÈYMAN",
+    "Traduction": "Renseignement, information",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "RANTRA",
@@ -45480,6 +46338,12 @@
     "Synonymes": "blagé"
   },
   {
+    "Mot": "RÉKLAM",
+    "Traduction": "Publicité",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "RÈKOMANSÉ / RÈKONMANSÉ",
     "Traduction": "Recommencer",
     "Exemples": "-",
@@ -45738,7 +46602,7 @@
     "Synonymes": "rézév"
   },
   {
-    "Mot": "RÈSPÈTÉ",
+    "Mot": "RÈSPÈTÉ/RÈSPÈKTÉ",
     "Traduction": "Respecter",
     "Exemples": "Rèspèté sa! (Ça, c'est extraordinaire !)",
     "Synonymes": "-"
@@ -45778,6 +46642,12 @@
     "Traduction": "Vivre en concubinage",
     "Exemples": "I mandé-y rété (Il lui a demandé de vivre avec lui. Il lui a demandé à coucher)",
     "Synonymes": "anmennaj"
+  },
+  {
+    "Mot": "RÈSTORAN",
+    "Traduction": "Restaurant",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "RÉTÉ",
@@ -45834,6 +46704,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "RÈV",
+    "Traduction": "Rêve",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "RÈVANDÈZ / RIVANDÈZ",
     "Traduction": "Revendeuse",
     "Exemples": "-",
@@ -45882,6 +46758,12 @@
     "Synonymes": "érisi"
   },
   {
+    "Mot": "RÉYON",
+    "Traduction": "Rayon de lumière, rayon dans les magasins",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "RÉZEN / RÉZEN BÒD-LANMÈ",
     "Traduction": "Raisin, raisinier (Coccoloba unifera)",
     "Exemples": "On rézen/ on pyé-rézen (Un raisinier)",
@@ -45897,6 +46779,12 @@
     "Mot": "RÉZIGNÉ (TOU -)",
     "Traduction": "Résigné",
     "Exemples": "I ja tou rézigné (Il est résigné à tout)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "RÉZILTA",
+    "Traduction": "Résultat",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -46176,6 +47064,12 @@
     "Synonymes": "rèsò"
   },
   {
+    "Mot": "RITA",
+    "Traduction": "Retard",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "RITOUNÈL",
     "Traduction": "Retour, retour de flamme, retrouvailles",
     "Exemples": "Sa ka sanm sa sé on ritounèl i fè la (On dirait que c'est un retour de flammes)",
@@ -46413,6 +47307,12 @@
     "Mot": "SALIBOUCH",
     "Traduction": "Bouchée de pâtisserie, amuse-gueule",
     "Exemples": "Yo sévi détwa salibouch avan yo té manjé (On a servi quelques amuse-gueule avant le repas)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "SALISMAN",
+    "Traduction": "Saleté, salissure",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -46974,6 +47874,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "SÉJOU",
+    "Traduction": "Séjour",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "SÈK",
     "Traduction": "Sec, sèche",
     "Exemples": "-",
@@ -47016,6 +47922,12 @@
     "Synonymes": "simòsoplanch"
   },
   {
+    "Mot": "SÉKIRITÉ",
+    "Traduction": "Sécurité",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "SÈKLAJ",
     "Traduction": "Défrichage, débroussaillement, sarclage",
     "Exemples": "Ja lè pou fè sèklaj (Il faut commencer le défrichage (de la terre))",
@@ -47043,6 +47955,12 @@
     "Mot": "SÈKRÉ / SIKRÉ",
     "Traduction": "Secret",
     "Exemples": "Sèkrè a-y sé ta-y (Il garde ses secrets pour lui)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "SÈKRÉTARYA",
+    "Traduction": "Secrétariat",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -47316,6 +48234,18 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "SENT",
+    "Traduction": "Ceintre",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "SENTÉTIK",
+    "Traduction": "Synthétique",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "SENTI",
     "Traduction": "Ceinture",
     "Exemples": "-",
@@ -47570,7 +48500,13 @@
   {
     "Mot": "SÈVI",
     "Traduction": "Servir",
-    "Exemples": "Ka sa ka sèvi? (À quoi ça sert ?), An la ka vyéyi san sèvi (Les années passent et je suis toujours sans partenaire sexuel (je suis là à vieillir sans être utilisé(e))), Sèvi (é, èvè, avè, épi) (Se servir de, user de, utiliser)",
+    "Exemples": "Ka sa ka sèvi? (À quoi ça sert ?), An la ka vyéyi san sèvi (Les années passent et je suis toujours sans partenaire sexuel (je suis là à vieillir sans être utilisé(e)))",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "SÈVI (-É/ÉPI/ÈVÈ/AVÈ)",
+    "Traduction": "Utiliser, se servir de, user de",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -47600,6 +48536,12 @@
   {
     "Mot": "SÉWONM",
     "Traduction": "Sérum",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "SÈWSO",
+    "Traduction": "Cerceau",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -47827,7 +48769,7 @@
   },
   {
     "Mot": "SIK",
-    "Traduction": "Sucre, sucrerie, bonbon",
+    "Traduction": "Sucre, sucrerie, bonbon, diabète",
     "Exemples": "Sik-siyé/Sik kasé (Sucre de betterave en morceaux), Sik lizin (Sucre brun (sucre de canne)), Sik si (Bonbon acidulé), Sik a koko grajé (Sucrerie à base de noix de coco râpée), Sik a koko haché/kolé (Sucrerie à base de noix de coco hachée), Sik a lenbé (Confiserie de tamarin (sucré et acide)), Sik a koko a tèt wòz (Sucrerie à base de coco râpée, avec du carmin au sommet), Sikamant (Bonbon à la menthe), Sé sik sosé an miyèl (C'est trop sucré (c'est du sucre saucé dans du miel)), Ka yé? sé on sik alòs? (Eh ! fichez-moi la paix, vous êtes tous après moi comme des mouches (je suis un sucre, alors !?))",
     "Synonymes": "dousin"
   },
@@ -48276,6 +49218,18 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "SIT",
+    "Traduction": "Site",
+    "Exemples": "Sit entèwnèt (site internet)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "SITADYÉ / SIVÉDYÉ",
+    "Traduction": "Si Dieu veut, s'il plaît à Dieu",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "SITAN",
     "Traduction": "Tant, une telle quantité",
     "Exemples": "Té ni sitan moun (Il y avait tant de gens)",
@@ -48379,6 +49333,12 @@
   },
   {
     "Mot": "SIWOTÉ",
+    "Traduction": "Déguster",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "SIWOTÉ",
     "Traduction": "Picoler, se saouler",
     "Exemples": "-",
     "Synonymes": "-"
@@ -48472,6 +49432,12 @@
     "Traduction": "Au cas où, dans l'hypothèse",
     "Exemples": "-",
     "Synonymes": "sianka"
+  },
+  {
+    "Mot": "SKILTI",
+    "Traduction": "Sculpture",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "SLIP / ÈSLIP",
@@ -48609,6 +49575,12 @@
     "Mot": "SOLIDÈ",
     "Traduction": "Solidaire",
     "Exemples": "Solidè kon bilbiten (Solidaires comme les merles (qui accourent lorsque l'un d'entre eux est blessé))",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "SOLISYON",
+    "Traduction": "Solution",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -49440,6 +50412,18 @@
     "Synonymes": "swèf"
   },
   {
+    "Mot": "SWANGNÉ",
+    "Traduction": "Soigner, guérir",
+    "Exemples": "-",
+    "Synonymes": "lolé"
+  },
+  {
+    "Mot": "SWARÉ",
+    "Traduction": "Soirée, fête",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "SWÉ",
     "Traduction": "Suer",
     "Exemples": "I ka swé kon kannari chatengn/I ka swé kon bouwo sòti akonfès (Il sue abondamment (comme une marmite de châtaignes/ comme un bourreau qui vient de se confesser))",
@@ -50016,7 +51000,7 @@
     "Synonymes": "-"
   },
   {
-    "Mot": "TANPRISOUPLÈ",
+    "Mot": "TANPRISOUPLÉ",
     "Traduction": "Je vous en prie, s'il vous plaît",
     "Exemples": "-",
     "Synonymes": "souplè"
@@ -50310,6 +51294,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "TÈKNISYEN",
+    "Traduction": "Technicien",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "TÈKS",
     "Traduction": "Texte, test",
     "Exemples": "-",
@@ -50374,6 +51364,12 @@
     "Traduction": "Immature (pour un fruit)",
     "Exemples": "-",
     "Synonymes": "blèblè"
+  },
+  {
+    "Mot": "TÉNIS",
+    "Traduction": "Tennis",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "TENKENTENK",
@@ -50544,6 +51540,12 @@
     "Synonymes": "-"
   },
   {
+    "Mot": "TÉWOWIS",
+    "Traduction": "Terroriste",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "TI",
     "Traduction": "Petit, petite",
     "Exemples": "On ti fèy (Une petite feuille) - I ni ti pyé (Il a de petits pieds)",
@@ -50583,6 +51585,12 @@
     "Mot": "TIB",
     "Traduction": "Tube",
     "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "TIBA",
+    "Traduction": "Tuba",
+    "Exemples": "Najé èvè mas é tiba (nager avec un maque et un tuba)",
     "Synonymes": "-"
   },
   {
@@ -50952,6 +51960,12 @@
     "Synonymes": "takté"
   },
   {
+    "Mot": "TIKWEN",
+    "Traduction": "Lieu, endroit en général agréable ou joli",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "TILALIN",
     "Traduction": "Faible clair de lune, petite lune (encore en croissant)",
     "Exemples": "-",
@@ -51250,6 +52264,12 @@
     "Traduction": "Avorton",
     "Exemples": "-",
     "Synonymes": "anbavant"
+  },
+  {
+    "Mot": "TIRKWAZ",
+    "Traduction": "Turquoise",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "TISÉZI",
@@ -51586,6 +52606,12 @@
     "Traduction": "Tomber, s'écrouler",
     "Exemples": "Tonbé an kannal/Tonbé an dalo (Tomber dans le ruisseau) - I mal tonbé (Elle a fait une mauvaise chute) - Ou mal tonbé (Tu arrives au mauvais moment) - I tonbé tou doubout (Il est retombé sur ses pieds) - Loraj tonbé (La foudre est tombée) - Lapli ka tonbé (Il pleut) - I tonbé mal (Il s'est évanoui) - An ka lésé-w tonbé (Je te laisse tomber) - Fann tonbé (Femme déchue) - I tonbé si mwen balabap (Il m'a eu par surprise) - I anni tonbé si mwen ka pléré (Il s'est abattu en pleurant sur mon épaule) - I tonbé (Il a vieilli) - I tonbé (Il a fait faillite)",
     "Synonymes": "atè, dédou, koulé"
+  },
+  {
+    "Mot": "TONBÉ (-BYEN)",
+    "Traduction": "Convenir, plaire",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "TONBÉ",
@@ -52297,7 +53323,7 @@
   },
   {
     "Mot": "TOURIS",
-    "Traduction": "Touriste",
+    "Traduction": "Touriste, touristique",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -52393,7 +53419,7 @@
   },
   {
     "Mot": "TOUTAFÈTMAN",
-    "Traduction": "Entièrement, complètement",
+    "Traduction": "Entièrement, complètement, tout à fait",
     "Exemples": "-",
     "Synonymes": "tounèt"
   },
@@ -52633,7 +53659,7 @@
   },
   {
     "Mot": "TRANSPÒ",
-    "Traduction": "Bus, transport en commun",
+    "Traduction": "Bus, transport, transport en commun",
     "Exemples": "-",
     "Synonymes": "char"
   },
@@ -52687,8 +53713,8 @@
   },
   {
     "Mot": "TRAS",
-    "Traduction": "Trace",
-    "Exemples": "-",
+    "Traduction": "Trace, randonnée",
+    "Exemples": "Fè on tras (faire une randonnée)",
     "Synonymes": "mak"
   },
   {
@@ -53006,12 +54032,12 @@
   {
     "Mot": "TWA",
     "Traduction": "Trois",
-    "Exemples": "-",
+    "Exemples": "Twakadè (trois quart d'heure)",
     "Synonymes": "-"
   },
   {
     "Mot": "TWACHIMEN",
-    "Traduction": "Carrefour de trois routes",
+    "Traduction": "Carrefour de trois routes, embranchement, fourche",
     "Exemples": "-",
     "Synonymes": "katchimen"
   },
@@ -53738,7 +54764,7 @@
   {
     "Mot": "VÉYÉ",
     "Traduction": "Surveiller",
-    "Exemples": "Véyé lanm (Être vigilant)",
+    "Exemples": "Véyé lanm (Être vigilant). Véyé kò (prendre ses précautions)",
     "Synonymes": "véya"
   },
   {
@@ -53799,6 +54825,12 @@
     "Mot": "VIDÉ",
     "Traduction": "Tomber à verse",
     "Exemples": "Lapli ka vidé (Il pleut à verse)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "VIDÉO",
+    "Traduction": "Vidéo",
+    "Exemples": "On vidéo si entèwnèt (Une vidéo sur internet)",
     "Synonymes": "-"
   },
   {
@@ -54044,6 +55076,12 @@
   {
     "Mot": "VIWONNÉ",
     "Traduction": "Entourer",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "VIZA",
+    "Traduction": "Visa",
     "Exemples": "-",
     "Synonymes": "-"
   },
@@ -54606,10 +55644,28 @@
     "Synonymes": "karant"
   },
   {
+    "Mot": "VYOLAN",
+    "Traduction": "Violent (e)",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "VYOLANS",
+    "Traduction": "Violence",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "VYOLÉ",
     "Traduction": "Violer",
     "Exemples": "-",
     "Synonymes": "anvyolé"
+  },
+  {
+    "Mot": "VYOLÈT",
+    "Traduction": "Violet",
+    "Exemples": "-",
+    "Synonymes": "-"
   },
   {
     "Mot": "VYOLON",
@@ -54834,6 +55890,12 @@
     "Synonymes": "fout"
   },
   {
+    "Mot": "WIK-ENN",
+    "Traduction": "Week-end, fin de la semine",
+    "Exemples": "-",
+    "Synonymes": "-"
+  },
+  {
     "Mot": "WO",
     "Traduction": "Haut, grand",
     "Exemples": "-",
@@ -54919,6 +55981,12 @@
   },
   {
     "Mot": "WÒL",
+    "Traduction": "Fonction (dans le monde du travail)",
+    "Exemples": "Ki té wòl a-w ? (Quelle était votre fonction?)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "WÒL",
     "Traduction": "Jeu, rôle, manège.",
     "Exemples": "Ki wòl ésa ou ka jwé èvè-mwen la ? (À quoi tu joues ?). Fè wòl/Jwé wòl (Faire semblant)",
     "Synonymes": "lasanblan, wondi, mistiné"
@@ -54967,7 +56035,7 @@
   },
   {
     "Mot": "WON",
-    "Traduction": "Rond(e), rondement.",
+    "Traduction": "Rond(e), rondement",
     "Exemples": "Lavi ka touné won (La vie tourne rondement)",
     "Synonymes": "-"
   },
@@ -54979,7 +56047,7 @@
   },
   {
     "Mot": "WON",
-    "Traduction": "Virée",
+    "Traduction": "Virée, tour",
     "Exemples": "Fè on won (Faire une virée, faire un tour)",
     "Synonymes": "driv"
   },
@@ -55077,6 +56145,12 @@
     "Mot": "WONPI",
     "Traduction": "Fieffé.",
     "Exemples": "On wonpi koken (Un fieffé coquin)",
+    "Synonymes": "-"
+  },
+  {
+    "Mot": "WONPWEN",
+    "Traduction": "Rond-point",
+    "Exemples": "-",
     "Synonymes": "-"
   },
   {
@@ -55438,6 +56512,12 @@
     "Traduction": "Rouspéter, protester, répliquer",
     "Exemples": "-",
     "Synonymes": "labou, réponn"
+  },
+  {
+    "Mot": "WOUT",
+    "Traduction": "Route",
+    "Exemples": "An ka èspéré an pé ké pran twòp anboutéyaj si wout-la (J'espère que je ne rencontrerai pas trop de  bouchons sur la route)",
+    "Synonymes": "-"
   },
   {
     "Mot": "WOUTOUNÉ",
@@ -55832,7 +56912,7 @@
   {
     "Mot": "YONN",
     "Traduction": "Quelqu'un",
-    "Exemples": "Yonn hélé : « An la ! » (Quelqu'un s'écria : « Présent ! »)",
+    "Exemples": "Yonn hélé : « An la ! » (Quelqu'un s'écria : « Présent ! »). Yonn adan (un parmi/ l'un de)",
     "Synonymes": "-"
   },
   {
